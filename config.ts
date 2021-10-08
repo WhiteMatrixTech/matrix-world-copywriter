@@ -1,4 +1,4 @@
-/*
+/* update
  *  空行代表一个段落结束
  **/
 export const copywriter = {
@@ -35,11 +35,11 @@ export const copywriter = {
   earlyAccess: {
     referralContest: {
       title: 'Referral Contest',
-      content: `We will open the pre-registration contest from October 3th to October 18th.
+      content: `<span class='white'>We will open the pre-registration contest from October 3th to October 18th.</span>
 
     A referral link will be generated on the early access page by completing the account registration. Players are encouraged to forward this link to others through Twitter, Facebook, or other mainstream social media.
 
-    Every valid referred registration will be evaluated and ranked. <span className="hightLight">The top 200 players</span> with the most referred registrations will be rewarded <span className="hightLight">as one pre-released Land plot</span> in the Matrix world.
+    Every valid referred registration will be evaluated and ranked. <span class="hightLight">The top 200 players</span> with the most referred registrations will be rewarded <span class="hightLight">as one pre-released Land plot</span> in the Matrix world.
 
     We will open the pre-sale application and start the qualification review process simultaneously in mid-October. Further information about the Matrix world will be released and updated on the website after October 8th PDT.
 
@@ -199,14 +199,14 @@ export const copywriter = {
             'What are some activities I can participate in pre-sale period?',
           answer: `Referral Contest: The top 200 players with the most referred registrations will be rewarded as one pre-released Land plot in the Matrix World.
 
-          NFT Airdrop: We will offer free NFT airdrops to owners of special NFT collections who participated in the early access (both Ethereum and Flow). You can check the special NFT collection list on <a href="https://matrixworld.org/activity">Matrix</a>
+          NFT Airdrop: We will offer free NFT airdrops to owners of special NFT collections who participated in the early access (both Ethereum and Flow). You can check the special NFT collection list on the Matrix NFT airdrop event webpage (<a href="https://matrixworld.org/airdrop"> https://matrixworld.org/airdrop</a>).
 
           Airdrop for ChainIDE users: We will offer free NFT airdrops to ChainIDE users who registered before Oct 18th and created a project with ChainIDE.`,
         },
         {
           question: 'How to get NFT Airdrop in early access?',
           answer: `In order to make the Matrix World a better place, we are intended to synthesize the world with multi-elements. Therefore we will offer pecial NFT airdrops for each player in the Matrix World. We will
-          offer free NFT airdrops to the owner of several NFT collections who participated in the early access. Please check the detailed NFT collection list on the Matrix NFT airdrop event webpage ( <a href="https://matrixworld.org/airdrop"> https://matrixworld.org/airdrop</a> ).`,
+          offer free NFT airdrops to the owner of several NFT collections who participated in the early access. Please check the detailed NFT collection list on the Matrix NFT airdrop event webpage (<a href="https://matrixworld.org/airdrop">https://matrixworld.org/airdrop</a>).`,
         },
         {
           question: 'Which wallet should I use?',
