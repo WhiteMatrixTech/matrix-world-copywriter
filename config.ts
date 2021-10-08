@@ -1,5 +1,3 @@
-import react from 'react'
-
 /*
  *  空行代表一个段落结束
  **/
