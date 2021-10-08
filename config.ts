@@ -30,8 +30,8 @@ export const copywriter = {
       },
     },
     partnerSection: {
-      title: 'OUR PARTNERS'
-    }
+      title: 'OUR COLLABORATORS',
+    },
   },
   earlyAccess: {
     referralContest: {
