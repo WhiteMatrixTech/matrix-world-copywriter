@@ -199,7 +199,7 @@ export const copywriter = {
             'What are some activities I can participate in pre-sale period?',
           answer: `Referral Contest: The top 200 players with the most referred registrations will be rewarded as one pre-released Land plot in the Matrix World.
 
-          NFT Airdrop: We will offer free NFT airdrops to owners of special NFT collections who participated in the early access (both Ethereum and Flow). You can check the special NFT collection list on the Matrix NFT airdrop event webpage <a href="https://matrixworld.org/airdrop"> https://matrixworld.org/airdrop</a>
+          NFT Airdrop: We will offer free NFT airdrops to owners of special NFT collections who participated in the early access (both Ethereum and Flow). You can check the special NFT collection list on the Matrix NFT airdrop event webpage (<a href="https://matrixworld.org/airdrop"> https://matrixworld.org/airdrop</a>)
 
           Airdrop for ChainIDE users: We will offer free NFT airdrops to ChainIDE users who registered before Oct 18th and created a project with ChainIDE.`,
         },
