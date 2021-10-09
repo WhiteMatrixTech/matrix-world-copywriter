@@ -116,7 +116,7 @@ export const copywriter = {
               desc: 'Loot is randomized adventurer gear generated and stored on chain. Stats, images, and other functionality are intentionally omitted for others to interpret. Feel free to use Loot in any way you want.',
               link: 'https://opensea.io/collection/lootproject',
             },
-            {				
+            {
               name: 'CryptoPunks',
               desc: 'CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in places like The New York Times, Christie’s of London, Art|Basel Miami, and The PBS NewsHour.',
               link: 'https://opensea.io/collection/cryptopunks',
@@ -291,7 +291,7 @@ gallery featuring Flow's NBA Topshot moments.`,
         {
           question: 'How will Matrix support DApps?',
           answer: `Matrix World is a 3D DApp platform. Matrix network consists of a number of Space Virtual Machine (SVM), each of which is responsible for running a Scene on a specific Land that offers various functionalities. Creators can make a 3D application solely on one SVM and create cross-SVM or multiscene applications. Matrix World will provide creators with development and automation tools to facilitate scene and DApp development. We hope that in the future, thousands of 3D applications will operate concurrently in Matrix World.`,
-        },   
+        },
       ],
     },
     {
