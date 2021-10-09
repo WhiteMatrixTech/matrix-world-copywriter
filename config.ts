@@ -31,6 +31,61 @@ export const copywriter = {
     partnerSection: {
       title: 'OUR COLLABORATORS',
     },
+    roadMapSection: {
+      title: 'ROADMAP',
+      content: [
+        {
+          time: '2021 Q4',
+          title: 'Community Pre-sale',
+          contentLines: [
+            'Oct 15th: 1st round (up to 2000 Lands on Ethereum)',
+            'Oct 26th: 2nd round (up to 5000 Lands on Flow)',
+            'Nov 8th: 3rd round (up to 3000 Lands on Ethereum)',
+          ],
+        },
+        {
+          time: '2022 Q1',
+          title: 'Multichain Identity System',
+          contentLines: [
+            'Support for Ethereum and Flow Accounts for Matrix Identity System',
+            'Globalization and Targeting of Communities and Brands',
+          ],
+        },
+        {
+          time: '2022 Q2',
+          title: 'Matrix World v1.0: A Traversable World',
+          contentLines: [
+            'Release of A Traversable World with Core 3D DApps',
+            'Space Virtual Machine SDK and API Closed Beta Testing',
+          ],
+        },
+        {
+          time: '2022 Q3',
+          title: 'Matrix World Builder and Developer API & SDK',
+          contentLines: [
+            'Builder API and SDK Release',
+            'Coder API and SDK Release',
+          ],
+        },
+        {
+          time: '2022 Q4',
+          title: 'Matrix World v2.0: A Programmable World',
+          contentLines: [
+            'Object and Scene Editor & Low-Code Creation Tool Release',
+            'Partnership and Collaboration with Builder Organizations',
+          ],
+        },
+        {
+          time: '2023 Q1',
+          title: 'Matrix World v3.0: A Infinite world',
+          contentLines: [
+            'Programmable NFT Support',
+            'Global Creator Grant Event',
+            'Project Origin: AI-Generated Metaverse Release',
+          ],
+        },
+      ],
+    },
   },
   earlyAccess: {
     referralContest: {
