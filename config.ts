@@ -1,4 +1,4 @@
-/* update
+/* update test
  *  空行代表一个段落结束
  **/
 export const copywriter = {
