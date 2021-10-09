@@ -86,6 +86,25 @@ export const copywriter = {
         },
       ],
     },
+    presaleSection: {
+      title: 'Community Land Pre-sale',
+      content: {
+        introduction: [
+          'The 1st round Matrix Land pre-sale of up to 2000 Lands starts on <span class="blueAndBold">Oct 15th</span>.',
+          'Individual applicants can apply for up to 10 Lands, while organizations can apply for up to 108 Lands.',
+          'Please keep an eye on our website for further pre-sale status updates.',
+        ],
+        steps: {
+          title: 'Steps of Pre-sale Application:',
+          content: [
+            'Click the "APPLY NOW" button below, fill in the form, and submit your application.',
+            'We will review all the submissions and notify the eligible applicants of the approval message through email and notifications on the Matrix website.',
+            'The eligible applicants who have received the approval message are qualified to buy the Lands allotted within 72 hours. If the purchase has not been made within 72 hours, the qualification will be invalidated.',
+            'Once the applicants finish the purchase, they will receive a tradable NFT voucher for the corresponding Land. Owners of the Land NFT voucher can later claim the Land on the <a href="/comingsoon" class="landLink" target="_self">Land Page</a>',
+          ],
+        },
+      },
+    },
   },
   earlyAccess: {
     referralContest: {
