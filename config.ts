@@ -90,9 +90,9 @@ export const copywriter = {
       title: 'Community Land Pre-sale',
       content: {
         introduction: [
-          'The 1st round Matrix Land pre-sale of up to 2000 Lands starts on <span class="blueAndBold">Oct 15th</span>.',
-          'Individual applicants can apply for up to 10 Lands, while organizations can apply for up to 108 Lands.',
-          'Please keep an eye on our website for further pre-sale status updates.',
+          '<p class="homePresaleSectionIntro">The 1st round Matrix Land pre-sale of up to 2000 Lands starts on <span class="blueAndBold">Oct 15th</span>.</p>',
+          '<p class="homePresaleSectionIntro">Individual applicants can apply for up to 10 Lands, while organizations can apply for up to 108 Lands.</p>',
+          '<p class="homePresaleSectionIntro">Please keep an eye on our website for further pre-sale status updates.<p>',
         ],
         steps: {
           title: 'Steps of Pre-sale Application:',
