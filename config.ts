@@ -6,7 +6,7 @@ export const copywriter = {
     slogon: 'A 3D Programmable Multichain Metaverse',
     messages: {
       authPage: {
-        accountRegisterSus: 'Registration scceeded!',
+        accountRegisterSus: 'Registration succeeded!',
         accountRegisterFail: 'Registration failed, please try again.',
         sendEmailFail:
           'Failed to send the verification email, please try again.',
@@ -17,7 +17,7 @@ export const copywriter = {
         applyFail: 'Application failed, please try again.',
         netWorkErr: 'Unexpected network error, please try again.',
         pleaseConnectWallet:
-          'No connected walllet detected, please connect a wallet first.',
+          'No connected wallet detected, please connect a wallet first.',
         haveNotSelectLand: `You haven't selected the Lands you want!`,
       },
       otherMsg: {
@@ -26,7 +26,7 @@ export const copywriter = {
         pleaseConnectMainNet:
           'Wrong network, please connect to Ethereum Mainnet.',
         pleaseConnectRinkby: 'Wrong network, please connect to Rinkeby.',
-        connectFailedTryAgain: 'Connection failed, please try again',
+        connectFailedTryAgain: 'Connection failed, please try again.',
         noWalletInfo: 'No wallet info detected!',
       },
     },
