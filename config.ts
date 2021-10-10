@@ -8,18 +8,21 @@ export const copywriter = {
       authPage: {
         accountRegisterSus: 'Registration scceeded!',
         accountRegisterFail: 'Registration failed, please try again.',
-        sendEmailFail: 'Failed to send the verification email, please try again.',
+        sendEmailFail:
+          'Failed to send the verification email, please try again.',
         emailNotValid: 'Please enter a valid email address.',
       },
       preSalePage: {
         applySus: 'Application submitted!',
         applyFail: 'Application failed, please try again.',
         netWorkErr: 'Unexpected network error, please try again.',
-        pleaseConnectWallet: 'No connected walllet detected, please connect a wallet first.',
+        pleaseConnectWallet:
+          'No connected walllet detected, please connect a wallet first.',
         haveNotSelectLand: `You haven't selected the Lands you want!`,
       },
       otherMsg: {
-        pleaseInstallMetamask: 'No Metamask detected, please install Metamask extension (https://metamask.io/)!',
+        pleaseInstallMetamask:
+          'No Metamask detected, please install Metamask extension (https://metamask.io/)!',
         pleaseConnectMainNet:
           'Wrong network, please connect to Ethereum Mainnet.',
         pleaseConnectRinkby: 'Wrong network, please connect to Rinkeby.',
