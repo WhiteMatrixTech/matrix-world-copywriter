@@ -4,6 +4,29 @@
 export const copywriter = {
   global: {
     slogon: 'A 3D Programmable Multichain Metaverse',
+    messages: {
+      authPage: {
+        accountRegisterSus: 'Account register successfully',
+        accountRegisterFail: 'Register account failed',
+        sendEmailFail: 'Send email failed',
+        emailNotValid: 'Please input valid email',
+      },
+      preSalePage: {
+        applySus: 'Apply successfully',
+        applyFail: 'Apply failed',
+        netWorkErr: 'Network error',
+        pleaseConnectWallet: 'Please connect wallet!',
+        haveNotSelectLand: `You haven't selected the land you want!`,
+      },
+      otherMsg: {
+        pleaseInstallMetamask: 'please install Metamask extension!',
+        pleaseConnectMainNet:
+          'Wrong network, please connect to ethereum mainnet.',
+        pleaseConnectRinkby: 'Wrong network, please connect to rinkeby.',
+        connectFailedTryAgain: 'Connection failed, please try again',
+        noWalletInfo: 'no wallet info!',
+      },
+    },
   },
   home: {
     introductionSection: {
