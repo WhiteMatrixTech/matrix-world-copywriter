@@ -121,7 +121,7 @@ export const copywriter = {
           '<div class="homePresaleSectionIntro">Please keep an eye on our website for further pre-sale status updates.<div>',
         ],
         steps: {
-          title: 'Steps of Choose Land Parcels:',
+          title: 'Steps of Pre-sale Application:',
           content: [
             '<div class="homePresaleSectionStepLine">Click the "APPLY NOW" button below, fill in the form, and submit your application.</div>',
             '<div class="homePresaleSectionStepLine">We will review all the submissions and notify the eligible applicants of the approval message through email and notifications on the Matrix website.</div>',
