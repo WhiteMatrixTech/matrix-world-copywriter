@@ -143,7 +143,10 @@ export const copywriter = {
 
     We will open the pre-sale application and start the qualification review process simultaneously in mid-October. Further information about the Matrix world will be released and updated on the website after October 8th PDT.
 
-    Players can find the ranking status with the number of referred registrations on their status pane. The result will be announced soon after the pre-sale starts, and the rewards will be airdropped as the pre-sale is finished.`,
+    Players can find the ranking status with the number of referred registrations on their status pane. The result will be announced soon after the pre-sale starts, and the rewards will be airdropped as the pre-sale is finished.
+    
+    <span class='white'>Note: We will manually review the players ranked top 200 after the contest ends. Any malicious behaviors (e.g., fake or suspicious referrals) will cause disqualification.</span>
+    `,
     },
     NFTAirdrop: {
       title: 'NFT Airdrop',
