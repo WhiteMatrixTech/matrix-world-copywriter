@@ -121,7 +121,7 @@ export const copywriter = {
           '<div class="homePresaleSectionIntro">Please keep an eye on our website for further pre-sale status updates.<div>',
         ],
         steps: {
-          title: 'Steps of Pre-sale Application:',
+          title: 'Steps of Choose Land Parcels:',
           content: [
             '<div class="homePresaleSectionStepLine">Click the "APPLY NOW" button below, fill in the form, and submit your application.</div>',
             '<div class="homePresaleSectionStepLine">We will review all the submissions and notify the eligible applicants of the approval message through email and notifications on the Matrix website.</div>',
@@ -144,7 +144,7 @@ export const copywriter = {
     We will open the pre-sale application and start the qualification review process simultaneously in mid-October. Further information about the Matrix world will be released and updated on the website after October 8th PDT.
 
     Players can find the ranking status with the number of referred registrations on their status pane. The result will be announced soon after the pre-sale starts, and the rewards will be airdropped as the pre-sale is finished.
-    
+
     <span class='white'>Note: We will manually review the players ranked top 200 after the contest ends. Any malicious behaviors (e.g., fake or suspicious referrals) will cause disqualification.</span>
     `,
     },
