@@ -11,6 +11,7 @@ export const copywriter = {
         sendEmailFail:
           'Failed to send the verification email, please try again.',
         emailNotValid: 'Please enter a valid email address.',
+        emailHasUsed: 'The email has already been used',
       },
       preSalePage: {
         applySus: 'Application submitted!',
