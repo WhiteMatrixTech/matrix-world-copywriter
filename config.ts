@@ -245,7 +245,7 @@ export const copywriter = {
 
           2.The Matrix team has extensive experience with blockchain games, middleware, and the metaverse. Cell Evolution won an award worth millions successfully helped us establish closer connections with the world's first developer ecosystems of the blockchain games. We collaborate with ChainIDE, a cloud-based integrated development environment that provides online services in more than 165 countries. The Metaverse Bootcamp that we co-hosted incubated and escorted over 30 blockchain games and metaverse projects.
 
-          3.We feel proud of the global developer ecosystem and partnership we have developed. Our official partnership with the Flow team makes Matrix World the first metaverse project in the Flow ecosystem. Furthermore, the Flow team plan to build a Flow headquarter in Matrix World. Flow blockchain projects like CryptoKitties and NBA Topshots will collaborate with Matrix World gradually.`,
+          3.We feel proud of the global developer ecosystem and partnership we have developed. Our official partnership with the Flow team makes Matrix World the first metaverse project in the Flow ecosystem. Furthermore, the Flow team plan to build a Flow headquarter in Matrix World. Flow blockchain projects like CryptoKitties and NBA Top Shot will collaborate with Matrix World gradually.`,
         },
       ],
     },
@@ -308,12 +308,11 @@ export const copywriter = {
         },
         {
           question: 'How to get NFT Airdrop in early access?',
-          answer: `In order to make the Matrix World a better place, we are intended to synthesize the world with multi-elements. Therefore we will offer pecial NFT airdrops for each player in the Matrix World. We will
-          offer free NFT airdrops to the owner of several NFT collections who participated in the early access. Please check the detailed NFT collection list on the Matrix NFT airdrop event webpage (<a href="https://matrixworld.org/airdrop">https://matrixworld.org/airdrop</a>).`,
+          answer: `In order to make the Matrix World a better place, we are intended to synthesize the world with multi-elements. Therefore we will offer special NFT airdrops for each player in the Matrix World. We will offer free NFT airdrops to the owner of several NFT collections who participated in the early access. Please check the detailed NFT collection list on the Matrix NFT airdrop event webpage (<a href="https://matrixworld.org/airdrop">https://matrixworld.org/airdrop</a>).`,
         },
         {
           question: 'Which wallet should I use?',
-          answer: `On Ethereum, we support Metamask and all other wallets integrated with web3.js. On Flow, we support Blocoto. If your application is approved, you will be emailed with clear instructions on how to pay for your Land.`,
+          answer: `On Ethereum, we support Metamask and all other wallets integrated with web3.js. On Flow, we support Blocto. If your application is approved, you will be emailed with clear instructions on how to pay for your Land.`,
         },
       ],
     },
