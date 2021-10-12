@@ -152,7 +152,7 @@ export const copywriter = {
     NFTAirdrop: {
       title: 'NFT Airdrop',
       content:
-        'In order to make the Matrix world a better place, we are intended to synthesize the world with multi-elements. Therefore we will offer special NFT airdrops for each player in the Matrix world.',
+        'In order to make the Matrix world a better place, we are intended to synthesize the world with multi-elements. Therefore we will offer special NFT airdrops for each player in the Matrix world.Please note that these specially made souvenirs NFTs are <span class="hightLight">NOT</span> Land plots in the Pre-sale Activity and Referral Contest.',
       section: {
         section1: {
           title: 'Airdrop for Ethereum Users',
@@ -205,7 +205,7 @@ export const copywriter = {
         section2: {
           title: 'Airdrop for Flow Users',
           content:
-            'On Oct15, MatrixWorld will offer free NFT airdrops in Flow Fest Activity, Every festival attendee will have the opportunity to redeem one Mystery Box. Once Users open the Mystery box, each user will receive their NFTs directly to their Blocto wallet or any FCL compatible non-custodial wallet.',
+            'On Oct 15, Matrix world will offer free NFT airdrops in Flow Fest Activity, Every festival attendee will have the opportunity to redeem one Mystery Box. Once Users open the Mystery box, each user will receive their NFTs directly to their Blocto wallet or any FCL compatible non-custodial wallet.',
         },
         section3: {
           title: 'Airdrop for ChainIDE Users',
