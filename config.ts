@@ -151,12 +151,11 @@ export const copywriter = {
     },
     NFTAirdrop: {
       title: 'NFT Airdrop',
-      content: `In order to make the Matrix world a better place, we are intended to synthesize the world with multi-elements. Therefore we will offer special NFT airdrops in the Matrix world.Please note that these specially made souvenirs NFTs are <span class="hightLight">NOT LANDS</span> that would be offered in the 'Pre-sale Activity' and 'Referral Contest'`,
+      content: `In order to make the Matrix world a better place, we are intended to synthesize the world with multi-elements. Therefore we will offer special NFT airdrops in the Matrix world.Please note that these specially made souvenirs NFTs are <span class="hightLight">NOT LANDS</span> that would be offered in the 'Pre-sale Activity' and 'Referral Contest'.`,
       section: {
         section1: {
           title: 'Airdrop for Ethereum Users',
           content: `We will offer free NFT airdrops to the owner of the below NFT collections who participated in the early access. The owner of NFTs listed below will will be airdropped one NFT for each owned NFT collection. <span class="hightLight">The snapshot will be taken on Oct 19th 00:00 PDT.</span>
-  .
 
           Note that multiple NFTs of the same collection only count once. For instance, If Sam has 3 Cryptopunks, 2 Meetbits, and 5 Rivermen, he will get 3 airdropped NFTs.`,
           applicationList: [
