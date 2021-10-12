@@ -11,6 +11,7 @@ export const copywriter = {
         sendEmailFail:
           'Failed to send the verification email, please try again.',
         emailNotValid: 'Please enter a valid email address.',
+        emailHasUsed: 'The email has already been used',
       },
       preSalePage: {
         applySus: 'Application submitted!',
@@ -143,16 +144,18 @@ export const copywriter = {
 
     We will open the pre-sale application and start the qualification review process simultaneously in mid-October. Further information about the Matrix world will be released and updated on the website after October 8th PDT.
 
-    Players can find the ranking status with the number of referred registrations on their status pane. The result will be announced soon after the pre-sale starts, and the rewards will be airdropped as the pre-sale is finished.`,
+    Players can find the ranking status with the number of referred registrations on their status pane. The result will be announced soon after the pre-sale starts, and the rewards will be airdropped as the pre-sale is finished.
+
+    <span class='white'>Note: We will manually review the players ranked top 200 after the contest ends. Any malicious behaviors (e.g., fake or suspicious referrals) will cause disqualification.</span>
+    `,
     },
     NFTAirdrop: {
       title: 'NFT Airdrop',
-      content:
-        'In order to make the Matrix world a better place, we are intended to synthesize the world with multi-elements. Therefore we will offer special NFT airdrops for each player in the Matrix world.',
+      content: `In order to make the Matrix world a better place, we are intended to synthesize the world with multi-elements. Therefore we will offer special NFT airdrops in the Matrix world.Please note that these specially made souvenirs NFTs are <span class="hightLight">NOT LANDS</span> that would be offered in the ''Pre-sale Activity'' and ''Referral Contest''.`,
       section: {
         section1: {
           title: 'Airdrop for Ethereum Users',
-          content: `We will offer free NFT airdrops to the owner of the below NFT collections who participated in the early access. The owner of NFTs listed below will get one airdropped NFT for each NFT collection owned.
+          content: `We will offer free NFT airdrops to the owner of the below NFT collections who participated in the early access. The owner of NFTs listed below will will be airdropped one NFT for each owned NFT collection.  <span class="hightLight">The snapshot will be taken on Oct 19th 00:00 PDT.</span>
 
         Note that multiple NFTs of the same collection only count once. For instance, If Sam has 3 Cryptopunks, 2 Meetbits, and 5 Rivermen, he will get 3 airdropped NFTs.`,
           applicationList: [
@@ -201,15 +204,22 @@ export const copywriter = {
         section2: {
           title: 'Airdrop for Flow Users',
           content:
-            'On Oct15, MatrixWorld will offer free NFT airdrops in Flow Fest Activity, Every festival attendee will have the opportunity to redeem one Mystery Box. Once Users open the Mystery box, each user will receive their NFTs directly to their Blocto wallet or any FCL compatible non-custodial wallet.',
+            'On Oct 15, Matrix world will offer free NFT airdrops in Flow Fest Activity, Every festival attendee will have the opportunity to redeem one Mystery Box. Once Users open the Mystery box, each user will receive their NFTs directly to their Blocto wallet or any FCL compatible non-custodial wallet.',
         },
         section3: {
-          title: 'Airdrop for ChainIDE Users',
-          content: `ChainIDE users who registered before October 18th and created a project with ChainIDE (You will have to ensure that the email address you use in Matrix registration is the same as the ChainIDE account’s email).
+          title: 'Airdrop for ChainIDE Users（Terminated）',
+          content: `<p class='deleteLine'>ChainIDE users who registered before October 18th and created a project with ChainIDE (You will have to ensure that the email address you use in Matrix registration is the same as the ChainIDE account’s email).
 
         Users who want to get NFT airdrops must register on the Matrix website with the same wallet holding listed NFTs before the pre-sale starts. The snapshot will be taken right after the early access closes.
 
-        Thank you for your participation and support! We hope everyone has a great time :D`,
+        Thank you for your participation and support! We hope everyone has a great time :D<p>
+        <p style='color:rgb(229, 236, 244)'>Note：
+
+        Dear Matrixers! Matrix team appreciates your great response to the "NFT AIRDROP for ChainIDE users" activity. Unfortunately, it was discovered that there are widespread abuses of creating a massive number of fraudulent accounts on GitHub to take advantage of the NFT airdrop. The Github team found this issue and notified our partner, the ChainIDE team, about the bad influence of bots-created garbage accounts.
+
+        Therefore, after hours of research and discussion, we have decided to close this activity. Members who already registered and created a project before Oct 12th, 01:00 PM PDT will still be rewarded with special NFTs related to Matrix World accessories.
+
+        Thanks again, and good luck!<p>`,
         },
       },
     },
@@ -242,7 +252,7 @@ export const copywriter = {
 
           2.The Matrix team has extensive experience with blockchain games, middleware, and the metaverse. Cell Evolution won an award worth millions successfully helped us establish closer connections with the world's first developer ecosystems of the blockchain games. We collaborate with ChainIDE, a cloud-based integrated development environment that provides online services in more than 165 countries. The Metaverse Bootcamp that we co-hosted incubated and escorted over 30 blockchain games and metaverse projects.
 
-          3.We feel proud of the global developer ecosystem and partnership we have developed. Our official partnership with the Flow team makes Matrix World the first metaverse project in the Flow ecosystem. Furthermore, the Flow team plan to build a Flow headquarter in Matrix World. Flow blockchain projects like CryptoKitties and NBA Topshots will collaborate with Matrix World gradually.`,
+          3.We feel proud of the global developer ecosystem and partnership we have developed. Our official partnership with the Flow team makes Matrix World the first metaverse project in the Flow ecosystem. Furthermore, the Flow team plan to build a Flow headquarter in Matrix World. Flow blockchain projects like CryptoKitties and NBA Top Shot will collaborate with Matrix World gradually.`,
         },
       ],
     },
@@ -305,12 +315,11 @@ export const copywriter = {
         },
         {
           question: 'How to get NFT Airdrop in early access?',
-          answer: `In order to make the Matrix World a better place, we are intended to synthesize the world with multi-elements. Therefore we will offer pecial NFT airdrops for each player in the Matrix World. We will
-          offer free NFT airdrops to the owner of several NFT collections who participated in the early access. Please check the detailed NFT collection list on the Matrix NFT airdrop event webpage (<a href="https://matrixworld.org/airdrop">https://matrixworld.org/airdrop</a>).`,
+          answer: `In order to make the Matrix World a better place, we are intended to synthesize the world with multi-elements. Therefore we will offer special NFT airdrops for each player in the Matrix World. We will offer free NFT airdrops to the owner of several NFT collections who participated in the early access. Please check the detailed NFT collection list on the Matrix NFT airdrop event webpage (<a href="https://matrixworld.org/airdrop">https://matrixworld.org/airdrop</a>).`,
         },
         {
           question: 'Which wallet should I use?',
-          answer: `On Ethereum, we support Metamask and all other wallets integrated with web3.js. On Flow, we support Blocoto. If your application is approved, you will be emailed with clear instructions on how to pay for your Land.`,
+          answer: `On Ethereum, we support Metamask and all other wallets integrated with web3.js. On Flow, we support Blocto. If your application is approved, you will be emailed with clear instructions on how to pay for your Land.`,
         },
       ],
     },
