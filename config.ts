@@ -151,13 +151,14 @@ export const copywriter = {
     },
     NFTAirdrop: {
       title: 'NFT Airdrop',
-      content: `In order to make the Matrix world a better place, we are intended to synthesize the world with multi-elements. Therefore we will offer special NFT airdrops in the Matrix world.Please note that these specially made souvenirs NFTs are <span class="hightLight">NOT LANDS</span> that would be offered in the ''Pre-sale Activity'' and ''Referral Contest''.`,
+      content: `In order to make the Matrix world a better place, we are intended to synthesize the world with multi-elements. Therefore we will offer special NFT airdrops in the Matrix world.Please note that these specially made souvenirs NFTs are <span class="hightLight">NOT LANDS</span> that would be offered in the 'Pre-sale Activity' and 'Referral Contest'`,
       section: {
         section1: {
           title: 'Airdrop for Ethereum Users',
-          content: `We will offer free NFT airdrops to the owner of the below NFT collections who participated in the early access. The owner of NFTs listed below will will be airdropped one NFT for each owned NFT collection.  <span class="hightLight">The snapshot will be taken on Oct 19th 00:00 PDT.</span>
+          content: `We will offer free NFT airdrops to the owner of the below NFT collections who participated in the early access. The owner of NFTs listed below will will be airdropped one NFT for each owned NFT collection. <span class="hightLight">The snapshot will be taken on Oct 19th 00:00 PDT.</span>
+  .
 
-        Note that multiple NFTs of the same collection only count once. For instance, If Sam has 3 Cryptopunks, 2 Meetbits, and 5 Rivermen, he will get 3 airdropped NFTs.`,
+          Note that multiple NFTs of the same collection only count once. For instance, If Sam has 3 Cryptopunks, 2 Meetbits, and 5 Rivermen, he will get 3 airdropped NFTs.`,
           applicationList: [
             {
               name: 'Loot',
@@ -210,16 +211,17 @@ export const copywriter = {
           title: 'Airdrop for ChainIDE Users（Terminated）',
           content: `<p class='deleteLine'>ChainIDE users who registered before October 18th and created a project with ChainIDE (You will have to ensure that the email address you use in Matrix registration is the same as the ChainIDE account’s email).
 
-        Users who want to get NFT airdrops must register on the Matrix website with the same wallet holding listed NFTs before the pre-sale starts. The snapshot will be taken right after the early access closes.
+          Users who want to get NFT airdrops must register on the Matrix website with the same wallet holding listed NFTs before the pre-sale starts. The snapshot will be taken right after the early access closes.
 
-        Thank you for your participation and support! We hope everyone has a great time :D<p>
-        <p style='color:rgb(229, 236, 244)'>Note：
+          Thank you for your participation and support! We hope everyone has a great time :D</p>`,
+        },
+        section4: {
+          title: 'Notification of ChainIDE Airdrop Event Termination',
+          content: `<p style="color:rgb(229, 236, 244)">Dear Matrixers! Matrix team appreciates your great response to the "NFT AIRDROP for ChainIDE users" activity. Unfortunately, it was discovered that there are widespread abuses of creating a massive number of fraudulent accounts on GitHub to take advantage of the NFT airdrop.The Github team found this issue and notified our partner, the ChainIDE team, about the bad influence of bots-created garbage accounts.
 
-        Dear Matrixers! Matrix team appreciates your great response to the "NFT AIRDROP for ChainIDE users" activity. Unfortunately, it was discovered that there are widespread abuses of creating a massive number of fraudulent accounts on GitHub to take advantage of the NFT airdrop. The Github team found this issue and notified our partner, the ChainIDE team, about the bad influence of bots-created garbage accounts.
+          Therefore, after hours of research and discussion, we have decided to close this activity.Members who already registered and created a project before Oct 12th, 01:00 PM PDT will still be rewarded with special NFTs related to Matrix World accessories.
 
-        Therefore, after hours of research and discussion, we have decided to close this activity. Members who already registered and created a project before Oct 12th, 01:00 PM PDT will still be rewarded with special NFTs related to Matrix World accessories.
-
-        Thanks again, and good luck!<p>`,
+          Thanks again, and good luck!</p>`,
         },
       },
     },
