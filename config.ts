@@ -207,7 +207,8 @@ export const copywriter = {
             'On Oct 15, Matrix world will offer free NFT airdrops in Flow Fest Activity, Every festival attendee will have the opportunity to redeem one Mystery Box. Once Users open the Mystery box, each user will receive their NFTs directly to their Blocto wallet or any FCL compatible non-custodial wallet.',
         },
         section3: {
-          title: 'Airdrop for ChainIDE Users（Terminated）',
+          title:
+            'Airdrop for ChainIDE Users<span style="color:#FF5858">(Terminated)</span>',
           content: `<p class='deleteLine'>ChainIDE users who registered before October 18th and created a project with ChainIDE (You will have to ensure that the email address you use in Matrix registration is the same as the ChainIDE account’s email).
 
           Users who want to get NFT airdrops must register on the Matrix website with the same wallet holding listed NFTs before the pre-sale starts. The snapshot will be taken right after the early access closes.
@@ -215,8 +216,8 @@ export const copywriter = {
           Thank you for your participation and support! We hope everyone has a great time :D</p>`,
         },
         section4: {
-          title: 'Notification of ChainIDE Airdrop Event Termination',
-          content: `<p style="color:rgb(229, 236, 244)">Dear Matrixers! Matrix team appreciates your great response to the "NFT AIRDROP for ChainIDE users" activity. Unfortunately, it was discovered that there are widespread abuses of creating a massive number of fraudulent accounts on GitHub to take advantage of the NFT airdrop.The Github team found this issue and notified our partner, the ChainIDE team, about the bad influence of bots-created garbage accounts.
+          title: `<span style="color:#FF5858;font-size:20px;font-style:italic">Notification of ChainIDE Airdrop Event Termination</span>`,
+          content: `<p style="color:#FF5858">Dear Matrixers! Matrix team appreciates your great response to the "NFT AIRDROP for ChainIDE users" activity. Unfortunately, it was discovered that there are widespread abuses of creating a massive number of fraudulent accounts on GitHub to take advantage of the NFT airdrop.The Github team found this issue and notified our partner, the ChainIDE team, about the bad influence of bots-created garbage accounts.
 
           Therefore, after hours of research and discussion, we have decided to close this activity.Members who already registered and created a project before Oct 12th, 01:00 PM PDT will still be rewarded with special NFTs related to Matrix World accessories.
 
