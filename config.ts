@@ -30,10 +30,13 @@ export const copywriter = {
         pleaseConnectRinkby: 'Wrong network, please connect to Rinkeby.',
         connectFailedTryAgain: 'Connection failed, please try again.',
         noWalletInfo: 'No wallet info detected!',
+        copySuccess: 'Copy success!',
       },
     },
-    otherMessage: {
-      copySuccess: 'success!',
+    links: {
+      whitePaperLink:
+        'https://d2yoccx42eml7e.cloudfront.net/website/whitepaper.pdf',
+      videoLink: 'https://d2yoccx42eml7e.cloudfront.net/videos/video.m4v',
     },
   },
   home: {
