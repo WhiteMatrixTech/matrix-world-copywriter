@@ -118,7 +118,7 @@ export const copywriter = {
       content: {
         introduction: [
           '<div class="homePresaleSectionIntro">The 1st round Matrix Land pre-sale of up to 2000 Lands starts on <span class="blueAndBold">Oct 15th</span>.</div>',
-          `<div class="homePresaleSectionIntro">Individual applicants can apply for up to <span class="blueAndBold">10 Lands</span>, while organizations can apply for up to <span class="blueAndBold">108 Lands</span>. Each land parcel's price is <span class="blueAndBold">0.2 ETH</span>(Payment on Flow is via FUSD or FLOW)</div>`,
+          `<div class="homePresaleSectionIntro">Individual applicants can apply for up to <span class="blueAndBold">10 Lands</span>, while organizations can apply for up to <span class="blueAndBold">108 Lands</span>. Each land parcel's price is <span class="blueAndBold">0.2 ETH</span> (Payment on Flow is via FUSD or FLOW)</div>`,
           '<div class="homePresaleSectionIntro">Please keep an eye on our website for further pre-sale status updates.<div>',
         ],
         steps: {
