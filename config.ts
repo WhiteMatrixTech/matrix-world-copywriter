@@ -32,6 +32,9 @@ export const copywriter = {
         noWalletInfo: 'No wallet info detected!',
       },
     },
+    otherMessage: {
+      copySuccess: 'success!',
+    },
   },
   home: {
     introductionSection: {
