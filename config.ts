@@ -3,7 +3,7 @@
  **/
 export const copywriter = {
   global: {
-    slogon: 'A 3D Programmable Multichain Metaverse',
+    slogan: 'A 3D Programmable Multichain Metaverse',
     messages: {
       authPage: {
         accountRegisterSus: 'Registration succeeded!',
@@ -11,7 +11,7 @@ export const copywriter = {
         sendEmailFail:
           'Failed to send the verification email, please try again.',
         emailNotValid: 'Please enter a valid email address.',
-        codeNotValid: 'Please enter verify code.',
+        codeNotValid: 'Please enter the verification code.',
         emailHasUsed: 'The email has already been used',
         emailIsBanned: 'This email has been banned',
       },
@@ -28,10 +28,10 @@ export const copywriter = {
           'No Metamask detected, please install Metamask extension (https://metamask.io/)!',
         pleaseConnectMainNet:
           'Wrong network, please connect to Ethereum Mainnet.',
-        pleaseConnectRinkby: 'Wrong network, please connect to Rinkeby.',
+        pleaseConnectRinkeby: 'Wrong network, please connect to Rinkeby.',
         connectFailedTryAgain: 'Connection failed, please try again.',
         noWalletInfo: 'No wallet info detected!',
-        copySuccess: 'Copy success!',
+        copySuccess: 'Copied!',
       },
     },
     links: {
@@ -126,7 +126,7 @@ export const copywriter = {
       content: {
         introduction: [
           '<div class="homePresaleSectionIntro">The 1st round Matrix Land pre-sale of up to 2000 Lands starts on <span class="blueAndBold">Oct 15th</span>.</div>',
-          `<div class="homePresaleSectionIntro">Individual applicants can apply for up to <span class="blueAndBold">10 Lands</span>, while organizations can apply for up to <span class="blueAndBold">108 Lands</span>. Each land parcel's price is <span class="blueAndBold">0.2 ETH</span> (Payment on Flow is via FUSD or FLOW)</div>`,
+          `<div class="homePresaleSectionIntro">Individual applicants can apply for up to <span class="blueAndBold">10 Lands</span>, while organizations can apply for up to <span class="blueAndBold">108 Lands</span>. Each Land's price is <span class="blueAndBold">0.2 ETH</span> (Payment on Flow is via FUSD or FLOW)</div>`,
           '<div class="homePresaleSectionIntro">Please keep an eye on our website for further pre-sale status updates.<div>',
         ],
         steps: {
@@ -169,42 +169,50 @@ export const copywriter = {
           applicationList: [
             {
               name: 'Loot',
-              desc: 'Loot is randomized adventurer gear generated and stored on chain. Stats, images, and other functionality are intentionally omitted for others to interpret. Feel free to use Loot in any way you want.',
+              desc:
+                'Loot is randomized adventurer gear generated and stored on chain. Stats, images, and other functionality are intentionally omitted for others to interpret. Feel free to use Loot in any way you want.',
               link: 'https://opensea.io/collection/lootproject',
             },
             {
               name: 'CryptoPunks',
-              desc: 'CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in places like The New York Times, Christie’s of London, Art|Basel Miami, and The PBS NewsHour.',
+              desc:
+                'CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in places like The New York Times, Christie’s of London, Art|Basel Miami, and The PBS NewsHour.',
               link: 'https://opensea.io/collection/cryptopunks',
             },
             {
               name: 'Decentraland',
-              desc: "Decentraland is an Ethereum blockchain-powered virtual world, developed and owned by its users, who can create, experience, and monetize content and applications. Join a growing community of virtual world inhabitants who are building the world's largest alternate reality economy on the blockchain. In this store, you can buy and sell land assets in MANA, DCL's native currency.",
+              desc:
+                "Decentraland is an Ethereum blockchain-powered virtual world, developed and owned by its users, who can create, experience, and monetize content and applications. Join a growing community of virtual world inhabitants who are building the world's largest alternate reality economy on the blockchain. In this store, you can buy and sell land assets in MANA, DCL's native currency.",
               link: 'https://opensea.io/collection/decentraland',
             },
             {
               name: 'Meebits',
-              desc: 'The Meebits are 20,000 unique 3D voxel characters, created by a custom generative algorithm, then registered on the Ethereum blockchain.',
+              desc:
+                'The Meebits are 20,000 unique 3D voxel characters, created by a custom generative algorithm, then registered on the Ethereum blockchain.',
               link: 'https://opensea.io/collection/meebits',
             },
             {
               name: 'RiverMen',
-              desc: 'Rivermen is a gamified NFT collection based on blockchain technology, created by the Cthuwork&NA team using elements from the voxel version of the “Along the River During Qingming Festival”. The voxel version of “Along the River During Qingming Festival” is a 3D artwork reinterpreting this long scroll, as one of the top ten famous Chinese paintings. The RIVER refers to the "Bian River" in this ancient painting scroll. Each person in this scene has a unique identity. The Rivermen are the good neighbors and cool folks living in the "Bianriverse". They are not ancient nor modern, but aboriginal people of the "Bianriverse", which is a metaverse based on "Along the River During the Qingming Festival". They will spend some quality time together in the Bianriverse.',
+              desc:
+                'Rivermen is a gamified NFT collection based on blockchain technology, created by the Cthuwork&NA team using elements from the voxel version of the “Along the River During Qingming Festival”. The voxel version of “Along the River During Qingming Festival” is a 3D artwork reinterpreting this long scroll, as one of the top ten famous Chinese paintings. The RIVER refers to the "Bian River" in this ancient painting scroll. Each person in this scene has a unique identity. The Rivermen are the good neighbors and cool folks living in the "Bianriverse". They are not ancient nor modern, but aboriginal people of the "Bianriverse", which is a metaverse based on "Along the River During the Qingming Festival". They will spend some quality time together in the Bianriverse.',
               link: 'https://opensea.io/collection/rivermen',
             },
             {
               name: 'The Sandbox Land',
-              desc: 'The Sandbox is a community-driven platform where creators can monetize voxel assets and gaming experiences on the blockchain. The Sandbox metaverse comprises a map made up of 166,464 LANDS. LAND owners can host contests and events, stake SAND to earn and customize assets, monetize assets and experiences, vote in the metaverse governance, play games that you or others create, and more! Trade the collection and keep your eyes peeled for future drops.',
+              desc:
+                'The Sandbox is a community-driven platform where creators can monetize voxel assets and gaming experiences on the blockchain. The Sandbox metaverse comprises a map made up of 166,464 LANDS. LAND owners can host contests and events, stake SAND to earn and customize assets, monetize assets and experiences, vote in the metaverse governance, play games that you or others create, and more! Trade the collection and keep your eyes peeled for future drops.',
               link: 'https://opensea.io/collection/sandbox',
             },
             {
               name: 'Bored APe Yacht Club',
-              desc: 'The Bored Ape Yacht Club is a collection of 10,000 unique Bored Ape NFTs— unique digital collectibles living on the Ethereum blockchain. Your Bored Ape doubles as your Yacht Club membership card, and grants access to members-only benefits, the first of which is access to THE BATHROOM, a collaborative graffiti board. Future areas and perks can be unlocked by the community through roadmap activation. Visit www.BoredApeYachtClub.com for more details.',
+              desc:
+                'The Bored Ape Yacht Club is a collection of 10,000 unique Bored Ape NFTs— unique digital collectibles living on the Ethereum blockchain. Your Bored Ape doubles as your Yacht Club membership card, and grants access to members-only benefits, the first of which is access to THE BATHROOM, a collaborative graffiti board. Future areas and perks can be unlocked by the community through roadmap activation. Visit www.BoredApeYachtClub.com for more details.',
               link: 'https://opensea.io/collection/boredapeyachtclub',
             },
             {
               name: 'CryptoVoxels',
-              desc: 'A virtual world on the Ethereum blockchain. Build, develop, and sell property on the blocks and streets of Cryptovoxels. Users own the land and assets, with ownership and trading history recorded permanently on the blockchain. Trade land NFTs right here on OpenSea, and keep track of the Cryptovoxels team on Twitter for news on the latest drops and developments.',
+              desc:
+                'A virtual world on the Ethereum blockchain. Build, develop, and sell property on the blocks and streets of Cryptovoxels. Users own the land and assets, with ownership and trading history recorded permanently on the blockchain. Trade land NFTs right here on OpenSea, and keep track of the Cryptovoxels team on Twitter for news on the latest drops and developments.',
               link: 'https://opensea.io/collection/cryptovoxels',
             },
           ],
@@ -258,11 +266,11 @@ export const copywriter = {
         {
           question:
             'Why should I participate in Matrix World?/What are some highlights in Matrix World?',
-          answer: `1.Matrix World is the first open virtual world project simultaneously running on different blockchain networks. The system now supports Ethereum and Flow, and we plan to include more blockchain networks as its persistent and consensus layer.
+          answer: `1. Matrix World is the first open virtual world project simultaneously running on different blockchain networks. The system now supports Ethereum and Flow, and we plan to include more blockchain networks as its persistent and consensus layer.
 
-          2.The Matrix team has extensive experience with blockchain games, middleware, and the metaverse. Cell Evolution won an award worth millions successfully helped us establish closer connections with the world's first developer ecosystems of the blockchain games. We collaborate with ChainIDE, a cloud-based integrated development environment that provides online services in more than 165 countries. The Metaverse Bootcamp that we co-hosted incubated and escorted over 30 blockchain games and metaverse projects.
+          2. The Matrix team has extensive experience with blockchain games, middleware, and the metaverse. Cell Evolution won an award worth millions successfully helped us establish closer connections with the world's first developer ecosystems of the blockchain games. We collaborate with ChainIDE, a cloud-based integrated development environment that provides online services in more than 165 countries. The Metaverse Bootcamp that we co-hosted incubated and escorted over 30 blockchain games and metaverse projects.
 
-          3.We feel proud of the global developer ecosystem and partnership we have developed. Our official partnership with the Flow team makes Matrix World the first metaverse project in the Flow ecosystem. Furthermore, the Flow team plan to build a Flow headquarter in Matrix World. Flow blockchain projects like CryptoKitties and NBA Top Shot will collaborate with Matrix World gradually.`,
+          3. We feel proud of the global developer ecosystem and partnership we have developed. Our official partnership with the Flow team makes Matrix World the first metaverse project in the Flow ecosystem. Furthermore, the Flow team plan to build a Flow headquarter in Matrix World. Flow blockchain projects like CryptoKitties and NBA Top Shot will collaborate with Matrix World gradually.`,
         },
       ],
     },
@@ -283,7 +291,7 @@ export const copywriter = {
         },
         {
           question: 'Can I merge or split Matrix Land?',
-          answer: `If owners buy more than one land parcel, they can split it and sell it in parts.
+          answer: `If owners buy more than one Land, they can split it and sell it in parts.
 
           When a group of Lands shares the same owner, the owner can choose to merge the Lands into a Space for larger construction and more complicated application development. The computational resources and storage of the Lands will get merged too.`,
         },
@@ -293,7 +301,7 @@ export const copywriter = {
         },
         {
           question: 'Can I resell my Land in the pre-alpha phase?',
-          answer: `Yes. On both blockchain networks, Ethereum and Flow, Matrix lands are tradable and transferable even during the pre-alpha phase.`,
+          answer: `Yes. On both blockchain networks, Ethereum and Flow, Matrix Lands are tradable and transferable even during the pre-alpha phase.`,
         },
       ],
     },
@@ -301,10 +309,10 @@ export const copywriter = {
       questionType: 'Community Pre-sale',
       questionList: [
         {
-          question: 'What is the community land pre-sale?',
-          answer: `The community land pre-sale is a special event in which up to 5,000 Matrix land parcels on Ethereum and 5,000 Matrix land parcels on Flow ecosystem will be made available for early members to purchase.
+          question: 'What is the community Land pre-sale?',
+          answer: `The community Land pre-sale is a special event in which up to 5,000 Matrix Lands on Ethereum and 5,000 Matrix Lands on Flow ecosystem will be made available for early members to purchase.
 
-          The purpose of this sale is to gather the early community for Matrix World. We want to gather the power from the community to help us accelerate the whole process. Coders, artists, scientists, geeks, and metaverse builders are welcome to join us. The sale will be a case-by-case application. Candidates will have to fill out a form explaining your plan on your early access land. Due to the limited supply, you might not be able to get all the Land and Space you requested on your form.`,
+          The purpose of this sale is to gather the early community for Matrix World. We want to gather the power from the community to help us accelerate the whole process. Coders, artists, scientists, geeks, and metaverse builders are welcome to join us. The sale will be a case-by-case application. Applicants will have to fill out a form explaining your plan on your early access Lands. Due to the limited supply, you might not be able to get all the Land and Space you requested on your form.`,
         },
         {
           question: 'How will the community pre-sale work?',
@@ -315,7 +323,7 @@ export const copywriter = {
           The application will start from Oct 8th to Nov 8th at 00:00 Pacific Time. We will evaluate all the submissions and give offers in several rounds. The earlier applications that come in are likely to get earlier offers.`,
         },
         {
-          question: 'How much will pre-sale land cost?',
+          question: 'How much will pre-sale Land cost?',
           answer: `Each Land parcel's price on Ethereum is 0.2 Ether. And for Flow users, the price is the same, but the payment is via FUSD or FLOW at the community pre-sale stage.`,
         },
         {
@@ -520,12 +528,12 @@ gallery featuring Flow's NBA Topshot moments.`,
               value: 'Geeks and coders',
             },
             {
-              name: 'Crypto Artists',
-              value: 'Crypto Artists',
+              name: 'Crypto artists',
+              value: 'Crypto artists',
             },
             {
-              name: 'Crypto Investors',
-              value: 'Crypto Investors',
+              name: 'Crypto investors',
+              value: 'Crypto investors',
             },
             {
               name: 'Others',
@@ -572,8 +580,8 @@ gallery featuring Flow's NBA Topshot moments.`,
       },
     },
     chooseLands: {
-      title: 'Select the quantity of land you want to apply for',
-      quantitySelected: 'Quantity Selected',
+      title: 'Select the quantity of Land(s) you want to apply for',
+      quantitySelected: 'Quantity selected',
     },
     successPage: {
       title: 'Thank you!',
@@ -584,4 +592,4 @@ gallery featuring Flow's NBA Topshot moments.`,
       },
     },
   },
-}
+};
