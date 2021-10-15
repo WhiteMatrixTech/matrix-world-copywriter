@@ -11,7 +11,7 @@ export const copywriter = {
         sendEmailFail:
           'Failed to send the verification email, please try again.',
         emailNotValid: 'Please enter a valid email address.',
-        codeNotValid: 'Please input verify code.',
+        codeNotValid: 'Please enter verify code.',
         emailHasUsed: 'The email has already been used',
         emailIsBanned: 'This email has been banned',
       },
