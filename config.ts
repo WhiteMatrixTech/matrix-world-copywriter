@@ -11,6 +11,7 @@ export const copywriter = {
         sendEmailFail:
           'Failed to send the verification email, please try again.',
         emailNotValid: 'Please enter a valid email address.',
+        codeNotValid: 'Please input verify code.',
         emailHasUsed: 'The email has already been used',
         emailIsBanned: 'This email has been banned',
       },
@@ -273,6 +274,10 @@ export const copywriter = {
           answer: `Matrix Land is the smallest territorial unit in Matrix World with finite computation and storage resources. A Land is also represented on several blockchains as a tradable NFT token. For instance, it will be an ERC-721 token on Ethereum, whereas on Flow will be an on-chain Flow resource.`,
         },
         {
+          question: 'What is Land Voucher?',
+          answer: `A Land Voucher is a certificate Non-Fungible Token (NFT) that proves your ownership of a square of Lands in the early stages of Matrix World. It can be freely sold and traded in marketplaces in order to transfer ownership.  `,
+        },
+        {
           question: 'How large is a tile of Matrix Land?',
           answer: `Land parcels are 30m x 30m, or 99ft x 99ft, and there will be a height limitation which we are still deciding. However, if you are our partners or community members, you can apply extra height for special usages.`,
         },
@@ -382,4 +387,211 @@ gallery featuring Flow's NBA Topshot moments.`,
       ],
     },
   ],
+  preSale: {
+    steps: {
+      step1: {
+        title: 'Choose Blockchain',
+      },
+      step2: {
+        title: 'Basic Info',
+      },
+      step3: {
+        title: 'Choose Land(s)',
+      },
+    },
+    chooseBlockchain: {
+      ethereum: {
+        title: 'Ethereum Lands',
+        sign: 'Sign in with ',
+        apply: 'APPLY NOW',
+      },
+      flow: {
+        title: 'Flow Lands',
+        sign: 'Sign in with ',
+        apply: 'APPLY NOW',
+      },
+    },
+    basicInfo: {
+      Individual: {
+        nationality: {
+          title: 'What is your nationality?',
+          placeholder: 'please select your nationality',
+        },
+        age: {
+          title: 'How old are you?',
+          placeholder: '(0~3 numbers)',
+        },
+        experience: {
+          title: 'How long have you been in the blockchain world?',
+          questionData: [
+            {
+              name: 'Less than 1 year',
+              value: 'Less than 1 year',
+            },
+            {
+              name: '1-2 years',
+              value: '1-2 years',
+            },
+            {
+              name: '2-3 years',
+              value: '2-3 years',
+            },
+            {
+              name: 'More than 3 years',
+              value: 'More than 3 years',
+            },
+          ],
+          placeholder:
+            'please select how long have you been in the blockchain world',
+        },
+        metaverseRole: {
+          title: 'What role do you play in the metaverse?',
+          questionData: [
+            {
+              name: 'Developer',
+              value: 'Developer',
+            },
+            {
+              name: 'Artist',
+              value: 'Artist',
+            },
+            {
+              name: 'Builder',
+              value: 'Builder',
+            },
+            {
+              name: 'Community supporter',
+              value: 'Community supporter',
+            },
+            {
+              name: 'Other roles',
+              value: 'Other roles',
+            },
+          ],
+          placeholder: 'please select your role in the metaverse',
+        },
+        contributions: {
+          title: 'Your contributions to blockchain or metaverse projects?',
+          placeholder: '0~500 characters',
+        },
+        buildPlan: {
+          title: 'What do you plan to build in Matrix World?',
+          placeholder: '0~500 characters',
+        },
+        discordId: {
+          title: 'Your Discord ID (optional)',
+          placeholder: 'Enter your Discord ID',
+        },
+      },
+      Organization: {
+        members: {
+          title: 'The number of community members in your organization',
+          questionData: [
+            {
+              name: 'Less than 50',
+              value: 'Less than 50',
+            },
+            {
+              name: '50-200',
+              value: '50-200',
+            },
+            {
+              name: '200-500',
+              value: '200-500',
+            },
+            {
+              name: '500+',
+              value: '500+',
+            },
+          ],
+          placeholder:
+            'please select the number of community members in your organization',
+        },
+        majority: {
+          title: 'The majority of your organization(s) are',
+          placeholder: 'please select the majority of your organization(s)',
+          questionData: [
+            {
+              name: 'Fans of metaverse',
+              value: 'Fans of metaverse',
+            },
+            {
+              name: 'Geeks and coders',
+              value: 'Geeks and coders',
+            },
+            {
+              name: 'Crypto Artists',
+              value: 'Crypto Artists',
+            },
+            {
+              name: 'Crypto Investors',
+              value: 'Crypto Investors',
+            },
+            {
+              name: 'Others',
+              value: 'Others',
+            },
+          ],
+        },
+        organizationRunTime: {
+          title: 'Your organization has been running for',
+          placeholder: 'please select your organization run time',
+          questionData: [
+            {
+              name: 'Less than 1 year',
+              value: 'Less than 1 year',
+            },
+            {
+              name: '1-3',
+              value: '1-3',
+            },
+            {
+              name: '3+',
+              value: '3+',
+            },
+          ],
+        },
+        contributions: {
+          title:
+            'Describe your contributions to blockchain or metaverse projects',
+          placeholder: '0~500 characters',
+        },
+        buildPlan: {
+          title: 'What does your organization plan to build in Matrix World?',
+          placeholder: '0~500 characters',
+        },
+        discordId: {
+          title: 'Your Discord ID or website',
+          placeholder: 'Enter your Discord ID or website',
+        },
+        contactEmail: {
+          title: `Your organization's official contact email address`,
+          placeholder:
+            "Enter your organization's official contact email address",
+        },
+      },
+    },
+    chooseLands: {
+      title: 'Select the quantity of land you want to apply for',
+      quantitySelected: 'Quantity Selected',
+    },
+    successPage: {
+      title: 'Thank you!',
+      subTitle:
+        'Your application has been submitted. We’ve sent a confirmation email to you. Please check your mailbox for further information and updates.',
+      buttons: {
+        title: 'BACK HOME',
+      },
+    },
+  },
+  register: {
+    email: {
+      invalid: 'Please input verify code.',
+      placeholder: 'Email',
+    },
+    code: {
+      invalid: 'Please input verify code.',
+      placeholder: 'Code',
+    },
+  },
 }
