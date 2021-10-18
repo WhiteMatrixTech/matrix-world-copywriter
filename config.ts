@@ -590,6 +590,7 @@ gallery featuring Flow's NBA Topshot moments.`,
       buttons: {
         title: 'BACK HOME',
       },
+      didnotReceiveIt: 'didn’t receive it'
     },
   },
 };
