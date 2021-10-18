@@ -253,16 +253,16 @@ export const copywriter = {
         {
           question:
             'Which platform should I choose to participate in Matrix World?',
-          answer: `Currently, we don't support mobile devices. Users can run Matrix World from a PC or Mac running Chrome or Firefox. While it may be technically possible that other browsers might work, to ensure optimal performance, we highly recommend Firefox or Chrome.`,
+          answer: `Currently, we don't support mobile devices. Users can run Matrix World from a PC or Mac running Chrome or Firefox. While it may be technically possible that other browsers might work, to ensure optimal performance, we highly recommend Firebox or Chrome.`,
         },
         {
           question:
-            'Why should I participate in Matrix World?/What are some highlights in Matrix World?',
+            'Why should I participate in Matrix World? What are some highlights in Matrix World?',
           answer: `1. Matrix World is the first open virtual world project simultaneously running on different blockchain networks. The system now supports Ethereum and Flow, and we plan to include more blockchain networks as its persistent and consensus layer.
 
           2. The Matrix team has extensive experience with blockchain games, middleware, and the metaverse. Cell Evolution won an award worth millions successfully helped us establish closer connections with the world's first developer ecosystems of the blockchain games. We collaborate with ChainIDE, a cloud-based integrated development environment that provides online services in more than 165 countries. The Metaverse Bootcamp that we co-hosted incubated and escorted over 30 blockchain games and metaverse projects.
 
-          3. We feel proud of the global developer ecosystem and partnership we have developed. Our official partnership with the Flow team makes Matrix World the first metaverse project in the Flow ecosystem. Furthermore, the Flow team plan to build a Flow headquarter in Matrix World. Flow blockchain projects like CryptoKitties and NBA Top Shot will collaborate with Matrix World gradually.`,
+          3. We feel proud of the global developer ecosystem and partnership we have developed. Our official partnership with the Flow team makes Matrix World the first metaverse project in the Flow ecosystem. Furthermore, the Flow team plan to build a Flow headquarter in Matrix World. Flow blockchain projects like CryptoKitties and NBA Top Shots will collaborate with Matrix World gradually.`,
         },
       ],
     },
@@ -275,11 +275,11 @@ export const copywriter = {
         },
         {
           question: 'What is Land Voucher?',
-          answer: `A Land Voucher is a certificate Non-Fungible Token (NFT) that proves your ownership of a square of Lands in the early stages of Matrix World. It can be freely sold and traded in marketplaces in order to transfer ownership.  `,
+          answer: `A Land Voucher is a certificate Non-Fungible Token (NFT) that proves your ownership of a square of Lands in the early stages of Matrix World. It can be freely traded in marketplaces in order to transfer ownership.`,
         },
         {
           question: 'How large is a tile of Matrix Land?',
-          answer: `Land parcels are 30m x 30m, or 99ft x 99ft, and there will be a height limitation which we are still deciding. However, if you are our partners or community members, you can apply extra height for special usages.`,
+          answer: `A Land is 30m x 30m, or 99ft x 99ft, and there will be a height limitation which we are still deciding. However, if you are our partners or community members, you can apply extra height for special usages.`,
         },
         {
           question: 'Can I merge or split Matrix Land?',
