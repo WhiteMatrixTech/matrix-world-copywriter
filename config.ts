@@ -134,7 +134,7 @@ export const copywriter = {
           content: [
             '<div class="homePresaleSectionStepLine">Click the "APPLY NOW" button below, fill in the form, and submit your application.</div>',
             '<div class="homePresaleSectionStepLine">We will review all the submissions and notify the eligible applicants of the approval message through email and notifications on the Matrix website.</div>',
-            '<div class="homePresaleSectionStepLine">The eligible applicants who have received the approval message are qualified to buy the Lands allotted within <span class="blueAndBold">72 hours</span>. If the purchase has not been made within 72 hours, the qualification will be invalidated.</div>',
+            '<div class="homePresaleSectionStepLine">Eligible applicants who receive the CLAIM notification message are eligible to purchase the allocated land within <span class="blueAndBold">72 hours</span>. If the purchase has not been made within 72 hours, the qualification will be invalidated.</div>',
             '<div class="homePresaleSectionStepLine">Once the applicants finish the purchase, they will receive a tradable NFT voucher for the corresponding Land. Owners of the Land NFT voucher can later claim the Land on the <a href="/comingsoon" class="landLink" target="_self">Land Page</a></div>',
           ],
         },
@@ -144,17 +144,14 @@ export const copywriter = {
   earlyAccess: {
     referralContest: {
       title: 'Referral Contest',
-      content: `<span class='white'>We will open the pre-registration contest from October 3th to October 18th.</span>
+      content: `<span class='white'>Dear Matrixers! We're thankful for your tremendous support for the REFERRAL CONTEST activity,</span>
 
-    A referral link will be generated on the early access page by completing the account registration. Players are encouraged to forward this link to others through Twitter, Facebook, or other mainstream social media.
+    1. Registrations for the REFERRAL CONTEST activity are closed on Oct 18th at 00:00 PDT.
 
-    Every valid referred registration will be evaluated and ranked. <span class="hightLight">The top 200 players</span> with the most referred registrations will be rewarded <span class="hightLight">as one pre-released Land plot</span> in the Matrix world.
+    2. The result of this activity will be announced in 10 workdays, Land NFTs will be rewarded to the winners after the pre-sale is finished.
 
-    We will open the pre-sale application and start the qualification review process simultaneously in mid-October. Further information about the Matrix world will be released and updated on the website after October 8th PDT.
+    3. We're sorry to find that there are a lot of fake accounts registered using bots, and for a fair evaluation, our team is processing the results, checking all the registered accounts carefully, and filtering the fake accounts.
 
-    Players can find the ranking status with the number of referred registrations on their status pane. The result will be announced soon after the pre-sale starts, and the rewards will be airdropped as the pre-sale is finished.
-
-    <span class='white'>Note: We will manually review the players ranked top 200 after the contest ends. Any malicious behaviors (e.g., fake or suspicious referrals) will cause disqualification.</span>
     `,
     },
     NFTAirdrop: {
@@ -212,7 +209,7 @@ export const copywriter = {
         section2: {
           title: 'Airdrop for Flow Users',
           content:
-            'On Oct 15, Matrix world will offer free NFT airdrops in Flow Fest Activity, Every festival attendee will have the opportunity to redeem one Mystery Box. Once Users open the Mystery box, each user will receive their NFTs directly to their Blocto wallet or any FCL compatible non-custodial wallet.',
+            'On Oct 15, Matrix world will offer free NFT airdrops for lucky participants in the Flow Fest Activity. Chosen individuals will be able to redeem one Mystery Box. Once users open the Mystery Box, they will receive their NFTs directly to their Blocto wallet or any FCL compatible non-custodial wallet.',
         },
         section3: {
           title:
