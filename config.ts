@@ -144,7 +144,7 @@ export const copywriter = {
   earlyAccess: {
     referralContest: {
       title: 'Referral Contest',
-      content: `<span class='white'>Dear Matrixers! We're thankful for your tremendous support for the REFERRAL CONTEST activity,</span>
+      content: `<span class='white'>Dear Matrixers!</span><div class='white'> We're thankful for your tremendous support for the REFERRAL CONTEST activity,</div>
 
     1. Registrations for the REFERRAL CONTEST activity are closed on Oct 18th at 00:00 PDT.
 
@@ -280,9 +280,7 @@ export const copywriter = {
         },
         {
           question: 'Can I merge or split Matrix Land?',
-          answer: `If owners buy more than one Land, they can split it and sell it in parts.
-
-          When a group of Lands shares the same owner, the owner can choose to merge the Lands into a Space for larger construction and more complicated application development. The computational resources and storage of the Lands will get merged too.`,
+          answer: `If owners buy more than one Land, they can split it and sell it in parts, When a group of Lands shares the same owner, the owner can choose to merge the Lands into a Space for larger construction and more complicated application development. The computational resources and storage of the Lands will get merged too.`,
         },
         {
           question: 'What can Land owners do?',
@@ -301,11 +299,13 @@ export const copywriter = {
           question: 'What is the community Land pre-sale?',
           answer: `The community Land pre-sale is a special event in which up to 5,000 Matrix Lands on Ethereum and 5,000 Matrix Lands on Flow ecosystem will be made available for early members to purchase.
 
-          The purpose of this sale is to gather the early community for Matrix World. We want to gather the power from the community to help us accelerate the whole process. Coders, artists, scientists, geeks, and metaverse builders are welcome to join us. The sale will be a case-by-case application. Applicants will have to fill out a form explaining your plan on your early access Lands. Due to the limited supply, you might not be able to get all the Land and Space you requested on your form.`,
+          The purpose of this sale is to gather the early community for Matrix World. We want to gather the power from the community to help us accelerate the whole process. Coders, artists, scientists, geeks, and metaverse builders are welcome to join us. The sale will be a case-by-case application. Candidates will have to fill out a form explaining your plan on your early access Lands. Due to the limited supply, you might not be able to get all the Lands and Spaces you requested on your form.`,
         },
         {
           question: 'How will the community pre-sale work?',
-          answer: `To be eligible to join in Matrix World community pre-sale, you have to fill in the application form. If you are selected to be the first group of Matrix World builders, you will be added to Matrix's whitelist and receive an email to inform you that you are eligible to buy Lands on Matrix World's website. There will be several rounds of selections, and each candidate will have 72 hours to purchase. This is to avoid gas war and offer more flexibility to finish the transactions.
+          answer: `To be eligible to join in Matrix World community pre-sale, you have to fill in the application form. If you are selected to be the first group of Matrix World builders, you will be added to Matrix's whitelist and receive an email to inform you that you are eligible to buy Lands on Matrix World's website.
+
+          There will be several rounds of selections, and each qualified applicant will have 72 hours to finish the purchase in order to get your Land Vouchers. This is to avoid gas war and offer more flexibility to finish the transactions.
 
           The form will contain some contact info and features a couple of questions designed to show us your understanding of metaverse and the blockchain world.
 
@@ -313,12 +313,12 @@ export const copywriter = {
         },
         {
           question: 'How much will pre-sale Land cost?',
-          answer: `Each Land parcel's price on Ethereum is 0.2 Ether. And for Flow users, the price is the same, but the payment is via FUSD or FLOW at the community pre-sale stage.`,
+          answer: `Each Land’s price on Ethereum is 0.2 Ether. And for Flow users, the price is the same, but the payment is via FUSD or FLOW at the community pre-sale stage.`,
         },
         {
           question:
             'What are some activities I can participate in pre-sale period?',
-          answer: `Referral Contest: The top 200 players with the most referred registrations will be rewarded as one pre-released Land plot in the Matrix World.
+          answer: `Referral Contest: The top 200 players with the most referred registrations will be rewarded as one pre-released Land in the Matrix World.
 
           NFT Airdrop: We will offer free NFT airdrops to owners of special NFT collections who participated in the early access (both Ethereum and Flow). You can check the special NFT collection list on the Matrix NFT airdrop event webpage (<a href="https://matrixworld.org/airdrop"> https://matrixworld.org/airdrop</a>).
 
@@ -326,7 +326,7 @@ export const copywriter = {
         },
         {
           question: 'How to get NFT Airdrop in early access?',
-          answer: `In order to make the Matrix World a better place, we are intended to synthesize the world with multi-elements. Therefore we will offer special NFT airdrops for each player in the Matrix World. We will offer free NFT airdrops to the owner of several NFT collections who participated in the early access. Please check the detailed NFT collection list on the Matrix NFT airdrop event webpage (<a href="https://matrixworld.org/airdrop">https://matrixworld.org/airdrop</a>).`,
+          answer: `In order to make the Matrix World a better place, we are intended to synthesize the world with multi-elements. Therefore we will offer special NFT airdrops for each player in the Matrix World. We will offer free NFT airdrops to the owner of several NFT collections who participated in the early access. Please check the detailed NFT collection list on the the Matrix NFT airdrop event webpage (<a href="https://matrixworld.org/airdrop">https://matrixworld.org/airdrop</a>).`,
         },
         {
           question: 'Which wallet should I use?',
@@ -355,7 +355,7 @@ gallery featuring Flow's NBA Topshot moments.`,
         },
         {
           question: 'How will Matrix support DApps?',
-          answer: `Matrix World is a 3D DApp platform. Matrix network consists of a number of Space Virtual Machine (SVM), each of which is responsible for running a Scene on a specific Land that offers various functionalities. Creators can make a 3D application solely on one SVM and create cross-SVM or multiscene applications. Matrix World will provide creators with development and automation tools to facilitate scene and DApp development. We hope that in the future, thousands of 3D applications will operate concurrently in Matrix World.`,
+          answer: `Matrix World is a 3D DApp platform. Matrix network consists of a number of Space Virtual Machine (SVM), each of which is responsible for running a Scene on a specific Land/Space that offers various functionalities. Creators can make a 3D application solely on one SVM and create cross-SVM or multiscene applications. Matrix World will provide creators with development and automation tools to facilitate scene and DApp development. We hope that in the future, thousands of 3D applications will operate concurrently in Matrix World.`,
         },
       ],
     },
