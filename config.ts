@@ -29,6 +29,7 @@ export const copywriter = {
         pleaseConnectMainNet:
           'Wrong network, please connect to Ethereum Mainnet.',
         pleaseConnectRinkeby: 'Wrong network, please connect to Rinkeby.',
+        pleaseConnectFlow: 'Wrong network, please connect to Flow.',
         connectFailedTryAgain: 'Connection failed, please try again.',
         noWalletInfo: 'No wallet info detected!',
         copySuccess: 'Copied!',
