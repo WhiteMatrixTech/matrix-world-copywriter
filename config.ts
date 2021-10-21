@@ -136,7 +136,7 @@ export const copywriter = {
             '<div class="homePresaleSectionStepLine">Click the "APPLY NOW" button below, fill in the form, and submit your application.</div>',
             '<div class="homePresaleSectionStepLine">We will review all the submissions and notify the eligible applicants of the approval message through email and notifications on the Matrix website.</div>',
             '<div class="homePresaleSectionStepLine">Eligible applicants who receive the CLAIM notification message are eligible to purchase the allocated land within <span class="blueAndBold">72 hours</span>. If the purchase has not been made within 72 hours, the qualification will be invalidated.</div>',
-            '<div class="homePresaleSectionStepLine">Once the applicants finish the purchase, they will receive a tradable NFT voucher for the corresponding Land. Owners of the Land NFT voucher can later claim the Land on the <a href="/comingsoon" class="landLink" target="_self">Land Page</a></div>',
+            '<div class="homePresaleSectionStepLine">Once the applicants finish the purchase, they will receive a tradable NFT voucher for the corresponding Land. Owners of the Land NFT voucher can later claim the Land on the <a href="/claim" class="landLink" target="_self">Land Page</a></div>',
           ],
         },
       },
