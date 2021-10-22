@@ -586,7 +586,7 @@ gallery featuring Flow's NBA Topshot moments.`,
   claim: {
     noVoucherContent: `We're currently reviewing your application, thank you for your patience.`,
     purchase: {
-      tip: `Your Land Coucher(s) to Claim`,
+      tip: `Your Land Voucher(s) to Claim`,
       expire: `Expired in`,
       claim: `CLAIM`,
       expireTip: `Your Land Voucher(s) have expired.
