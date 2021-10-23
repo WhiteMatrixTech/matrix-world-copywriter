@@ -1,3 +1,4 @@
+import openseaLogo from '../images/logo/opensea.svg'
 /* update test
  *  空行代表一个段落结束
  **/
@@ -129,6 +130,7 @@ export const copywriter = {
           '<div class="homePresaleSectionIntro">The 1st round Matrix Land pre-sale of up to 2000 Lands starts on <span class="blueAndBold">Oct 15th</span>.</div>',
           `<div class="homePresaleSectionIntro">Individual applicants can apply for up to <span class="blueAndBold">10 Lands</span>, while organizations can apply for up to <span class="blueAndBold">108 Lands</span>. Each Land's price is <span class="blueAndBold">0.2 ETH</span> (Payment on Flow is via FUSD or FLOW)</div>`,
           '<div class="homePresaleSectionIntro">Please keep an eye on our website for further pre-sale status updates.<div>',
+          `<div class="homePresaleSectionIntro"><br /><i style="font-weight: 800">Note</i>: For Ethereum users, you can view your claimed Lands on our <img width="20" src=${openseaLogo} /> <a class="blueAndBold" target="_blank" href="https://opensea.io/collection/matrixworld-landvoucher" rel="noreferrer">OpenSea collection</a> page.<div>`
         ],
         steps: {
           title: 'Steps of Pre-sale Application:',
