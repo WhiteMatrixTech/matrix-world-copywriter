@@ -603,7 +603,7 @@ gallery featuring Flow's NBA Topshot moments.`,
     },
   },
   claim: {
-    noVoucherContent: `We're currently reviewing your application, thank you for your patience.`,
+    noVoucherContent: `The main drop on Flow will be at 08:00 AM PDT (15:00 PM UCT) on October 26th.`,
     purchase: {
       tip: `Your Land Voucher(s) to Claim`,
       expire: `Expire in`,
