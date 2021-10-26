@@ -143,6 +143,23 @@ export const copywriter = {
         },
       },
     },
+    waveSection: {
+      firstWave: {
+        title: '1st WAVE',
+        subTitle: `<span class="white">2000 Lands on </span>Ethereum`
+      },
+      secondWave: {
+        title: '2nd WAVE',
+        subTitle: `<span class="white">5000 Lands on </span> Flow`,
+        desc: `<div>1. The main drop time on Flow will be at <span class="blueAndBold">08:00 AM, on OCT 26th PDT</span>.<div>
+        <div>2. The <span class="blueAndBold">purchasing price</span>  of each Land is 60 FLOW. Please prepare sufficient funds in advance.</div><div>3. Please <span class="blueAndBold">note that</span> your Land Vouchers in the whitelist are <span class="blueAndBold">not guaranteed</span>, we are applying <span class="blueAndBold">First Come Serve</span> rules for the second wave due to the massive number of qualified applicants on Flow.</div>
+        `
+      },
+      thirdWave: {
+        title: '3rd WAVE',
+        subTitle: `<span class="white">3000 Lands on </span> Ethereum`
+      }
+    }
   },
   earlyAccess: {
     referralContest: {
@@ -586,7 +603,7 @@ gallery featuring Flow's NBA Topshot moments.`,
     },
   },
   claim: {
-    noVoucherContent: `We're currently reviewing your application, thank you for your patience.`,
+    noVoucherContent: `The main drop on Flow will be at 08:00 AM PDT (15:00 PM UCT) on October 26th.`,
     purchase: {
       tip: `Your Land Voucher(s) to Claim`,
       expire: `Expire in`,
