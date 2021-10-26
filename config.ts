@@ -612,6 +612,7 @@ gallery featuring Flow's NBA Topshot moments.`,
       For further info, keep an eye on the mailbox and the notification
       center.
       Thanks for your support.`,
+      flowDoc: `Don't know how to get FLOW?`
     },
     success: {
       content: `You've successfully submitted the transaction!
