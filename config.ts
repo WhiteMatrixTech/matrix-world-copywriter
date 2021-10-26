@@ -39,7 +39,7 @@ export const copywriter = {
     links: {
       whitePaperLink:
         'https://d2yoccx42eml7e.cloudfront.net/website/whitepaper.pdf',
-      videoLink: 'https://d2yoccx42eml7e.cloudfront.net/videos/video.m4v',
+      videoLink: 'https://d2yoccx42eml7e.cloudfront.net/videos/video.mp4',
     },
   },
   home: {
