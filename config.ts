@@ -151,6 +151,12 @@ export const copywriter = {
       secondWave: {
         title: '2nd WAVE',
         subTitle: `<span class="white">5000 Lands on </span> Flow`,
+        price:{
+          oneCount: 60,
+          twoCount: 240,
+          threeCount: 540,
+          sixCount: 2000
+        },
         desc: `<div>1. The main drop time on Flow will be at <span class="blueAndBold">08:00 AM, on OCT 26th PDT</span>.<div>
         <div>2. The <span class="blueAndBold">purchasing price</span>  of each Land is 60 FLOW. Please prepare sufficient funds in advance.</div><div>3. Please <span class="blueAndBold">note that</span> your Land Vouchers in the whitelist are <span class="blueAndBold">not guaranteed</span>, we are applying <span class="blueAndBold">First Come Serve</span> rules for the second wave due to the massive number of qualified applicants on Flow.</div>
         `
