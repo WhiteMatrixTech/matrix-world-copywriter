@@ -154,10 +154,10 @@ export const copywriter = {
           sixCount: 7.2
         },
         total: {
-          oneCount: 300,
-          twoCount: 400,
-          threeCount: 500,
-          sixCount: 800
+          oneCount: 560,
+          twoCount: 110,
+          threeCount: 48,
+          sixCount: 13
         },
       },
       secondWave: {
