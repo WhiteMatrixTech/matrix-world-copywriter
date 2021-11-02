@@ -630,5 +630,28 @@ gallery featuring Flow's NBA Topshot moments.`,
       We will inform you after the transaction is completed,
       please keep an eye on the notification center.`
     }
+  },
+  rank: {
+    sectionOne: {
+      p1: `After thorough investigation and screening, we have finished filtering the real users and fake users from the registered user data. We apologize for the delay, but the Matrix Team wanted to ensure the fairness and authenticity of our Referral Contest.
+The final results of the referral contest are as follows:`,
+    },
+    sectionTwo: {
+      title: 'Referral Contest land distribution rules:',
+      p1: `The top 200 users from the Referral Contest will each receive a 1x1 Matrix World Land Voucher, which will be airdropped to the email and wallet address that the user registered with. Users may go to the Claim page to claim their Land Voucher.`,
+      p2: `25 Land Vouchers will be distributed per week, from the 1st to the 200th ranked user. The distribution dates will be:
+      <span class="date">
+      Nov. 15th 2021
+      Nov. 22nd 2021
+      Nov 29th 2021
+      Dec. 6th 2021
+      Dec. 13th 2021
+      Dec. 20th 2021
+      Dec. 27th 2021
+      Jan. 3rd 2022
+      </span>
+      Each user will have two months to claim their Land Voucher. If the Land Voucher is not claimed within this two-month time period it will expire and the reserved Land will be returned to the Matrix Team to be used for other community activities/contests.`,
+      p3: 'If you have any questions, please send an email to <a target="_blank" href="/">contact@matrixworld.org</a> '
+    }
   }
 }
