@@ -669,7 +669,7 @@ The final results of the referral contest are as follows:`,
         'Jan. 3rd 2022'
       ],
       p2_2: `Each user will have two months to claim their Land Voucher. If the Land Voucher is not claimed within this two-month time period it will expire and the reserved Land will be returned to the Matrix Team to be used for other community activities/contests.`,
-      p3: 'If you have any questions, please send an email to <a target="_blank" href="/">contact@matrixworld.org</a> '
+      p3: 'If you have any questions, please send an email to <a target="_blank" href="mailto:contact@matrixworld.org">contact@matrixworld.org</a> '
     }
   }
 }
