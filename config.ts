@@ -196,9 +196,8 @@ export const copywriter = {
         },
         desc: `<div>Official Start Time: <span class="blueAndBold">Nov. 8th, 11:00 p.m. PST / Nov. 9th, 7:00 a.m. UTC </span><div>
         <div>1. <span class="blueAndBold">Please note</span> that your Land Voucher(s) in the whitelist do<span class="blueAndBold"> not guarantee</span> and/or reserve the respective Land(s) for you. Due to the massive number of qualified applicants on Ethereum, we are applying <span class="blueAndBold">First-Come, First-Served</span> rules for the third wave. Therefore, you must claim your Land Voucher(s) before the third wave Lands sell out. Also, your qualification is only valid for <span class="blueAndBold">72 hours</span>. If you do not claim your Land Voucher(s) before they sell out OR before your qualification expires, you will not be able to claim your allotted Land Voucher(s).</div>
-        <div>2. Each Land will cost 0.2 ETH plus gas fees. Please prepare sufficient funds in advance.<br/>
-Note: The following price list does not include gas fees, which must be paid in addition to the prices listed.<br/>
-(Land Voucher Price List: 1x1 0.2 ETH / 2x2 0.8 ETH / 3x3 1.8 ETH / 6x6 7.2 ETH) </div>
+        <div>2. Each Land will cost <span class="blueAndBold">0.2 ETH plus gas fees</span>. Please prepare sufficient funds in advance.<br/>
+Note: The following price list does not include gas fees, which must be paid in addition to the prices listed.</div>
 <div>3. If you have any questions about the claim feature, please feel free to join our Discord channel at <a href="https://discord.gg/bMQh4ztyhP" target="_blank">https://discord.gg/bMQh4ztyhP</a></div>`
 
 
