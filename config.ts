@@ -194,9 +194,14 @@ export const copywriter = {
           threeCount: 77,
           sixCount: 12
         },
-        desc: `<div>1. The main drop time on Flow will be at <span class="blueAndBold">08:00 AM, on OCT 26th PDT</span>.<div>
-        <div>2. The <span class="blueAndBold">purchasing price</span>  of each Land is 60 FLOW. Please prepare sufficient funds in advance.</div><div>3. <span class="blueAndBold">Please note</span> that your Land Vouchers in the whitelist are <span class="blueAndBold">not guaranteed</span>, we are applying <span class="blueAndBold">First Come First Serve</span> rules for the second wave due to the massive number of qualified applicants on Flow.</div>
-        `
+        desc: `<div>Official Start Time:<span class="blueAndBold">Nov. 8th, 11:00 p.m. PST / Nov. 9th, 7:00 a.m. UTC </span>.<div>
+        <div>1. <span class="blueAndBold">Please note</span> that your Land Voucher(s) in the whitelist do<span class="blueAndBold"> not guarantee</span> and/or reserve the respective Land(s) for you. Due to the massive number of qualified applicants on Ethereum, we are applying <span class="blueAndBold">First-Come, First-Served</span> rules for the third wave. Therefore, you must claim your Land Voucher(s) before the third wave Lands sell out. Also, your qualification is only valid for <span class="blueAndBold">72 hours</span>. If you do not claim your Land Voucher(s) before they sell out OR before your qualification expires, you will not be able to claim your allotted Land Voucher(s).</div>
+        <div>2. Each Land will cost 0.2 ETH plus gas fees. Please prepare sufficient funds in advance. 
+Note: The following price list does not include gas fees, which must be paid in addition to the prices listed. 
+(Land Voucher Price List: 1x1 0.2 ETH / 2x2 0.8 ETH / 3x3 1.8 ETH / 6x6 7.2 ETH) </div>
+<div>If you have any questions about the claim feature, please feel free to join our Discord channel at https://discord.gg/bMQh4ztyhP</div>
+
+      
       }
     }
   },
