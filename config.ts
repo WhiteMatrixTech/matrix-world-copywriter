@@ -127,7 +127,7 @@ export const copywriter = {
       title: 'Community Land Pre-sale',
       content: {
         introduction: [
-          '<div class="homePresaleSectionIntro">The 2nd wave Matrix Land pre-sale of up to 5000 Lands starts on <span class="blueAndBold">Oct 26th</span>.</div>',
+          '<div class="homePresaleSectionIntro">The 3rd wave Matrix Land pre-sale of up to 3000 Lands starts on <span class="blueAndBold">Nov 08th</span>.</div>',
           `<div class="homePresaleSectionIntro">Individual applicants can apply for up to <span class="blueAndBold">10 Lands</span>, while organizations can apply for up to <span class="blueAndBold">108 Lands</span>.</div>`,
           '<div class="homePresaleSectionIntro">Please keep an eye on our website for further pre-sale status updates.<div>',
           `<div class="homePresaleSectionIntro"><br /><i style="font-weight: 800">Note</i>: For Ethereum users, you can view your claimed Lands on our <img width="20" src=${openseaLogo} /> <a class="blueAndBold" target="_blank" href="https://opensea.io/collection/matrixworld-landvoucher" rel="noreferrer">OpenSea collection</a> page.<div>`
