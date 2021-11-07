@@ -644,7 +644,7 @@ gallery featuring Flow's NBA Topshot moments.`,
     },
   },
   claim: {
-    noVoucherContent: `The main drop on Flow will be at 08:00 AM PDT (15:00 PM UTC) on October 26th.`,
+    noVoucherContent: `Official Start Time on Ethereum: Nov. 8th, 11:00 p.m. PST / Nov. 9th, 7:00 a.m. UTC`,
     purchase: {
       tip: `Your Land Voucher(s) to Claim`,
       expire: `Expire in`,
