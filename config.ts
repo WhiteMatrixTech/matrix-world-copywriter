@@ -4,7 +4,7 @@ import openseaLogo from '../images/logo/opensea.svg'
  **/
 export const copywriter = {
   global: {
-    slogan: 'A 3D Programmable Multichain Metaverse',
+    slogan: 'A Programmable 3D Multichain Metaverse',
     messages: {
       authPage: {
         accountRegisterSus: 'Registration succeeded!',
@@ -46,23 +46,23 @@ export const copywriter = {
     introductionSection: {
       introduction1: {
         title: 'Multichain Metaverse',
-        content: `Matrix is a distinctive virtual world that will support different blockchain infrastructures. Players can explore the world with different on-chain identities.`,
+        content: `Matrix World is a distinctive virtual world that will support different blockchain infrastructures. Players can explore the world with different on-chain identities.`,
       },
       introduction2: {
-        title: '3D Immersive DApps',
-        content: `Creators can enrich and extend the world by building 3D immersive decentralized applications (DApps) that connect external services and applications. For example, players can visually trade and purchase NFTs through 3D DApps from OpenSea and other marketplaces.`,
+        title: 'Immersive 3D DApps',
+        content: `Creators can enrich and extend the world by building immersive 3D decentralized applications (DApps) that can connect to external services and applications. For example, players can visually trade and purchase NFTs through 3D DApps from OpenSea and other marketplaces.`,
       },
       introduction3: {
-        title: 'Programable NFTs & Objects',
-        content: `All in-game object and NFTs have their own lifecycles. Landowners can customize their behaviors, visual looking, and transformations via Turing-complete programs.`,
+        title: 'Programmable NFTs & Objects',
+        content: `All in-game objects and NFTs have their own lifecycles. Landowners can customize their behaviors, appearances, and transformations via Turing-complete programs.`,
       },
       introduction4: {
         title: 'Create With Automation',
-        content: `Importing various NFTs on the blockchain and create in-game building and constructions with automation tooling.`,
+        content: `Import various NFTs on the blockchain and create in-game buildings and constructions with automated tools.`,
       },
       introduction5: {
         title: 'Gameplay & Entertainment',
-        content: `Both public and user-created entertainment venues will be built in the virtual world, including 3D games, NFT galleries, and sports live centers. Players can enjoy their second life here.`,
+        content: `Both public and user-created entertainment venues will be built in the virtual world, including 3D games, NFT galleries, and sports centers. Players can enjoy their second life here.`,
       },
     },
     partnerSection: {
@@ -217,13 +217,13 @@ Note: The following price list does not include gas fees, which must be paid in 
     },
     NFTAirdrop: {
       title: 'NFT Airdrop',
-      content: `In order to make the Matrix world a better place, we are intended to synthesize the world with multi-elements. Therefore we will offer special NFT airdrops in the Matrix world.Please note that these specially made souvenirs NFTs are <span class="hightLight">NOT LANDS</span> that would be offered in the 'Pre-sale Activity' and 'Referral Contest'.`,
+      content: `In order to make Matrix World a better place, we aim to infuse the world with many diverse elements. Therefore, we will offer special NFT airdrops to many of our early access users. Please note that these will be specially made souvenir NFTs, they will <span class="hightLight">NOT be LANDS</span> like those offered in the 'Pre-sale Activity' and 'Referral Contest'.`,
       section: {
         section1: {
           title: 'Airdrop for Ethereum Users',
-          content: `We will offer free NFT airdrops to the owner of the below NFT collections who participated in the early access. The owner of NFTs listed below will will be airdropped one NFT for each owned NFT collection. <span class="hightLight">The snapshot will be taken on Oct 19th 00:00 PDT.</span>
+          content: `We will offer free NFT airdrops to owners of the NFT collections listed below who participated in our early access. The owners of these collections will be airdropped one NFT for each NFT collection that they own. <span class="hightLight">The snapshot will be taken on Oct 19th at 00:00 PDT.</span>
 
-          Note that multiple NFTs of the same collection only count once. For instance, If Sam has 3 Cryptopunks, 2 Meetbits, and 5 Rivermen, he will get 3 airdropped NFTs.`,
+          Please note that you can only get one airdropped NFT per collection. For instance, If Sam has 3 Cryptopunks, 2 Meetbits, and 5 Rivermen, he will get 3 airdropped NFTs.`,
           applicationList: [
             {
               name: 'Loot',
@@ -283,9 +283,9 @@ Note: The following price list does not include gas fees, which must be paid in 
         },
         section4: {
           title: `<span style="color:#FF5858;font-size:20px;font-style:italic">Notification of ChainIDE Airdrop Event Termination</span>`,
-          content: `<p style="color:#FF5858">Dear Matrixers! Matrix team appreciates your great response to the "NFT AIRDROP for ChainIDE users" activity. Unfortunately, it was discovered that there are widespread abuses of creating a massive number of fraudulent accounts on GitHub to take advantage of the NFT airdrop. The Github team found this issue and notified our partner, the ChainIDE team, about the bad influence of bots-created garbage accounts.
+          content: `<p style="color:#FF5858">Dear Matrixers! The Matrix World team appreciates your great response to the "NFT AIRDROP for ChainIDE users.” Unfortunately, we discovered that there was widespread abuse of the event.  Many users created a massive number of fraudulent accounts on GitHub to take advantage of the NFT airdrop. The Github team found this issue and notified our partner, the ChainIDE team, about the influence of fake bot-created accounts.
 
-          Therefore, after hours of research and discussion, we have decided to close this activity. <span style="color:#e5ecf4 ">Members who already registered and created a project before Oct 12th, 01:00 PM PDT will still be rewarded with special NFTs related to Matrix World accessories.</span>
+          Therefore, after hours of research and discussion, we have decided to terminate this activity. <span style="color:#e5ecf4 ">Members who registered and created a project before Oct 12th, 01:00 PM PDT will still be rewarded with special NFTs related to Matrix World accessories.</span>
 
           Thanks again, and good luck!</p>`,
         },
