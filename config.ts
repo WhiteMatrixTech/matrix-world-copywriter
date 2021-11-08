@@ -283,7 +283,7 @@ Note: The following price list does not include gas fees, which must be paid in 
         },
         section4: {
           title: `<span style="color:#FF5858;font-size:20px;font-style:italic">Notification of ChainIDE Airdrop Event Termination</span>`,
-          content: `<p style="color:#FF5858">Dear Matrixers! The Matrix World team appreciates your great response to the "NFT AIRDROP for ChainIDE users.” Unfortunately, we discovered that there was widespread abuse of the event.  Many users created a massive number of fraudulent accounts on GitHub to take advantage of the NFT airdrop. The Github team found this issue and notified our partner, the ChainIDE team, about the influence of fake bot-created accounts.
+          content: `<p style="color:#FF5858">Dear Matrixers! The Matrix World team appreciates your great response to the "NFT AIRDROP for ChainIDE users.” Unfortunately, we discovered that there was widespread abuse of the event. Many users created a massive number of fraudulent accounts on GitHub to take advantage of the NFT airdrop. The Github team found this issue and notified our partner, the ChainIDE team, about the influence of fake bot-created accounts.
 
           Therefore, after hours of research and discussion, we have decided to terminate this activity. <span style="color:#e5ecf4 ">Members who registered and created a project before Oct 12th, 01:00 PM PDT will still be rewarded with special NFTs related to Matrix World accessories.</span>
 
