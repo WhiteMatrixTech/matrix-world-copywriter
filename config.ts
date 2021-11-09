@@ -688,5 +688,13 @@ The final results of the referral contest are as follows:`,
       p2_2: `Each user will have two months to claim their Land Voucher. If the Land Voucher is not claimed within this two-month time period it will expire and the reserved Land will be returned to the Matrix Team to be used for other community activities/contests.`,
       p3: 'If you have any questions, please send an email to <a target="_blank" href="mailto:contact@matrixworld.org">contact@matrixworld.org</a> '
     }
+  },
+  tradingInProgress: {
+    tip1: `Your last transaction is still being processed! If your last transaction
+    was successful, you can ignore this message, if not , you can increase
+    Gas Fee to accelerate.`,
+    tip2: `TIP：Please set your gas fee wisely! If your transaction exceeds 20
+    minutes, the transaction may fail and your gas fee will be lost. You can
+    use Metamask to help speed up the transaction.`,
   }
 }
