@@ -693,8 +693,8 @@ The final results of the referral contest are as follows:`,
     tip1: `Your last transaction is still being processed! If your last transaction
     was successful, you can ignore this message, if not , you can increase
     Gas Fee to accelerate.`,
-    tip2: `TIP：Please set your gas fee wisely! If your transaction exceeds 20
-    minutes, the transaction may fail and your gas fee will be lost. You can
+    tip2: `TIP：Please set your gas fee wisely! If your transaction exceeds <span class="hightLight">20
+    minutes</span>, the transaction may fail and your gas fee will be lost. You can
     use Metamask to help speed up the transaction.`,
   }
 }
