@@ -644,7 +644,8 @@ gallery featuring Flow's NBA Topshot moments.`,
     },
   },
   claim: {
-    noVoucherContent: `Official Start Time on Ethereum: Nov. 8th, 11:00 p.m. PST / Nov. 9th, 7:00 a.m. UTC`,
+    noVoucherHeader: `PRESALE UPDATE - SOLD OUT`,
+    noVoucherContent: `Thank you to everyone who has supported us so far`,
     purchase: {
       tip: `Your Land Voucher(s) to Claim`,
       expire: `Expire in`,
