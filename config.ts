@@ -664,7 +664,11 @@ gallery featuring Flow's NBA Topshot moments.`,
       content: `Waiting for the transaction to complete.
       We will inform you after the transaction is completed,
       please keep an eye on the notification center.`
-    }
+    },
+    notes: [
+      `Each winner will have two months to claim their Land Voucher. If the Land Voucher is not claimed within two months，the reserved Land will be returned to the Matrix World Team to be used for other community activities/contests.`,
+      `Gas fee is required. Please prepare sufficient funds in advance.`
+    ]
   },
   rank: {
     sectionOne: {
