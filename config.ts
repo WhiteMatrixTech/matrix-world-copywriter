@@ -200,6 +200,10 @@ export const copywriter = {
 Note: The following price list does not include gas fees, which must be paid in addition to the prices listed.</div>
 <div>3. If you have any questions about the claim feature, please feel free to join our Discord channel at <a class="blueAndBold" href="https://discord.gg/bMQh4ztyhP" target="_blank">https://discord.gg/bMQh4ztyhP</a></div>`
       }
+    },
+    viewLandSection: {
+      openSeaLink: 'https://opensea.io/collection/matrixworld-landvoucher',
+      bloctoLink: 'https://opensea.io/collection/matrixworld-landvoucher'
     }
   },
   earlyAccess: {
