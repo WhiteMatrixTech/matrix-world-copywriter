@@ -130,7 +130,7 @@ export const copywriter = {
           '<div class="homePresaleSectionIntro">The 3rd wave Matrix Land pre-sale of up to 3000 Lands starts on <span class="blueAndBold">Nov 08th</span>.</div>',
           `<div class="homePresaleSectionIntro">Individual applicants can apply for up to <span class="blueAndBold">10 Lands</span>, while organizations can apply for up to <span class="blueAndBold">108 Lands</span>.</div>`,
           '<div class="homePresaleSectionIntro">Please keep an eye on our website for further pre-sale status updates.<div>',
-          `<div class="homePresaleSectionIntro"><br /><i style="font-weight: 800">Note</i>: For Ethereum users, you can view your claimed Lands on our <img width="20" src=${openseaLogo} /> <a class="blueAndBold" target="_blank" href="https://opensea.io/collection/matrixworld-landvoucher" rel="noreferrer">OpenSea collection</a> page.<div>`
+          `<div class="homePresaleSectionIntro"><br /><i style="font-weight: 800">Note</i>: For Ethereum users, you can view your claimed Lands on our <img width="20" src=${openseaLogo} /> <a class="blueAndBold" target="_blank" href="https://opensea.io/collection/matrixworld-landvoucher" rel="noreferrer">OpenSea collection</a> page.<div>`,
         ],
         steps: {
           title: 'Steps of Pre-sale Application:',
@@ -147,64 +147,64 @@ export const copywriter = {
       firstWave: {
         title: '1st WAVE',
         subTitle: `<span class="white">2000 Lands on </span>Ethereum`,
-        price:{
+        price: {
           oneCount: 0.2,
           twoCount: 0.8,
           threeCount: 1.8,
-          sixCount: 7.2
+          sixCount: 7.2,
         },
         total: {
           oneCount: 560,
           twoCount: 110,
           threeCount: 48,
-          sixCount: 13
+          sixCount: 13,
         },
       },
       secondWave: {
         title: '2nd WAVE',
         subTitle: `<span class="white">5000 Lands on </span> Flow`,
-        price:{
+        price: {
           oneCount: 60,
           twoCount: 240,
           threeCount: 540,
-          sixCount: 2160
+          sixCount: 2160,
         },
         total: {
           oneCount: 1575,
           twoCount: 350,
           threeCount: 165,
-          sixCount: 15
+          sixCount: 15,
         },
         desc: `<div>1. The main drop time on Flow will be at <span class="blueAndBold">08:00 AM, on OCT 26th PDT</span>.<div>
         <div>2. The <span class="blueAndBold">purchasing price</span>  of each Land is 60 FLOW. Please prepare sufficient funds in advance.</div><div>3. <span class="blueAndBold">Please note</span> that your Land Vouchers in the whitelist are <span class="blueAndBold">not guaranteed</span>, we are applying <span class="blueAndBold">First Come First Serve</span> rules for the second wave due to the massive number of qualified applicants on Flow.</div>
-        `
+        `,
       },
       thirdWave: {
         title: '3rd WAVE',
         subTitle: `<span class="white">3000 Lands on </span> Ethereum`,
-        price:{
+        price: {
           oneCount: 0.2,
           twoCount: 0.8,
           threeCount: 1.8,
-          sixCount: 7.2
+          sixCount: 7.2,
         },
         total: {
           oneCount: 655,
           twoCount: 240,
           threeCount: 77,
-          sixCount: 12
+          sixCount: 12,
         },
         desc: `<div>Official Start Time: <span class="blueAndBold">Nov. 8th, 11:00 p.m. PST / Nov. 9th, 7:00 a.m. UTC </span><div>
         <div>1. <span class="blueAndBold">Please note</span> that your Land Voucher(s) in the whitelist do<span class="blueAndBold"> not guarantee</span> and/or reserve the respective Land(s) for you. Due to the massive number of qualified applicants on Ethereum, we are applying <span class="blueAndBold">First-Come, First-Served</span> rules for the third wave. Therefore, you must claim your Land Voucher(s) before the third wave Lands sell out. Also, your qualification is only valid for <span class="blueAndBold">72 hours</span>. If you do not claim your Land Voucher(s) before they sell out OR before your qualification expires, you will not be able to claim your allotted Land Voucher(s).</div>
         <div>2. Each Land will cost <span class="blueAndBold">0.2 ETH plus gas fees</span>. Please prepare sufficient funds in advance.<br/>
 Note: The following price list does not include gas fees, which must be paid in addition to the prices listed.</div>
-<div>3. If you have any questions about the claim feature, please feel free to join our Discord channel at <a class="blueAndBold" href="https://discord.gg/bMQh4ztyhP" target="_blank">https://discord.gg/bMQh4ztyhP</a></div>`
-      }
+<div>3. If you have any questions about the claim feature, please feel free to join our Discord channel at <a class="blueAndBold" href="https://discord.gg/bMQh4ztyhP" target="_blank">https://discord.gg/bMQh4ztyhP</a></div>`,
+      },
     },
     viewLandSection: {
       openSeaLink: 'https://opensea.io/collection/matrixworld-landvoucher',
-      bloctoLink: 'https://bay.blocto.app/market?collections=matrix_world'
-    }
+      bloctoLink: 'https://bay.blocto.app/market?collections=matrix_world',
+    },
   },
   earlyAccess: {
     referralContest: {
@@ -658,22 +658,22 @@ gallery featuring Flow's NBA Topshot moments.`,
       For further info, keep an eye on the mailbox and the notification
       center.
       Thanks for your support.`,
-      flowDoc: `Don't know how to get FLOW?`
+      flowDoc: `Don't know how to get FLOW?`,
     },
     success: {
       content: `You've successfully submitted the transaction!
       Please wait for a few moments and stay tuned for updates via email and the notification center.`,
-      button: `VIEW IN MAP`
+      button: `VIEW IN MAP`,
     },
     tradingIn: {
       content: `Waiting for the transaction to complete.
       We will inform you after the transaction is completed,
-      please keep an eye on the notification center.`
+      please keep an eye on the notification center.`,
     },
     notes: [
       `Each winner will have two months to claim their Land Voucher. If the Land Voucher is not claimed within two months，the reserved Land will be returned to the Matrix World Team to be used for other community activities/contests.`,
-      `Gas fee is required. Please prepare sufficient funds in advance.`
-    ]
+      `Gas fee is required. Please prepare sufficient funds in advance.`,
+    ],
   },
   rank: {
     sectionOne: {
@@ -692,11 +692,11 @@ The final results of the referral contest are as follows:`,
         'Dec. 13th 2021',
         'Dec. 20th 2021',
         'Dec. 27th 2021',
-        'Jan. 3rd 2022'
+        'Jan. 3rd 2022',
       ],
       p2_2: `Each user will have two months to claim their Land Voucher. If the Land Voucher is not claimed within this two-month time period it will expire and the reserved Land will be returned to the Matrix Team to be used for other community activities/contests.`,
-      p3: 'If you have any questions, please send an email to <a target="_blank" href="mailto:contact@matrixworld.org">contact@matrixworld.org</a> '
-    }
+      p3: 'If you have any questions, please send an email to <a target="_blank" href="mailto:contact@matrixworld.org">contact@matrixworld.org</a> ',
+    },
   },
   tradingInProgress: {
     tip1: `Your last transaction is still being processed! If your last transaction
@@ -705,5 +705,18 @@ The final results of the referral contest are as follows:`,
     tip2: `TIP：Please set your gas fee wisely! If your transaction exceeds <span class="hightLight">20
     minutes</span>, the transaction may fail and your gas fee will be lost. You can
     use Metamask to help speed up the transaction.`,
-  }
+  },
+  terms: {
+    description: `Matrix World retains the right to remove any content that does not
+    comply with these guidelines or that we deem inappropriate. Prohibited
+    media includes but is not limited to:`,
+    list: [
+      `hate speech`,
+      `profanity, obscenity or vulgarity`,
+      `racist or inflammatory media`,
+      `nudity or offensive imagery`,
+      `defamation to a person or people`,
+      `media that infringes on copyright or another person’s intellectual property`,
+    ],
+  },
 }
