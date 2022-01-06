@@ -274,7 +274,7 @@ Note: The following price list does not include gas fees, which must be paid in 
         section2: {
           title: 'Airdrop for Flow Users',
           content:
-            'On Oct 15, Matrix world will offer free NFT airdrops for lucky participants in the Flow Fest Activity. Chosen individuals will be able to redeem one Mystery Box. Once users open the Mystery Box, they will receive their NFTs directly to their Blocto wallet or any FCL compatible non-custodial wallet.',
+            'On Oct 15, Matrix World will offer free NFT airdrops for lucky participants in the Flow Fest Activity. Chosen individuals will be able to redeem one Mystery Box. Once users open the Mystery Box, they will receive their NFTs directly to their Blocto wallet or any FCL compatible non-custodial wallet.',
         },
         section3: {
           title:
