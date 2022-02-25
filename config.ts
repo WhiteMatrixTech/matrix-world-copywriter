@@ -68,6 +68,9 @@ export const copywriter = {
     partnerSection: {
       title: 'OUR COLLABORATORS',
     },
+    investors: {
+      title: 'OUR INVESTORS'
+    },
     roadMapSection: {
       title: 'ROADMAP',
       content: [
