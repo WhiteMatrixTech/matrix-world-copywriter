@@ -38,8 +38,8 @@ export const copywriter = {
     },
     links: {
       whitePaperLink:
-        'https://d2yoccx42eml7e.cloudfront.net/website/whitepaper.pdf',
-      videoLink: 'https://d2yoccx42eml7e.cloudfront.net/videos/video.m4v',
+        'https://d2pxuh46u909kx.cloudfront.net/website/whitepaper.pdf',
+      videoLink: 'https://d2pxuh46u909kx.cloudfront.net/videos/video.m4v',
     },
   },
   home: {
