@@ -29,7 +29,7 @@ export const copywriter = {
           'No Metamask detected, please install Metamask extension (https://metamask.io/)!',
         pleaseConnectMainNet:
           'Wrong network, please connect to Ethereum Mainnet.',
-        pleaseConnectRinkeby: 'Wrong network, please connect to Rinkeby.',
+        pleaseConnectGoerli: 'Wrong network, please connect to Goerli.',
         pleaseConnectFlow: 'Wrong network, please connect to Flow.',
         connectFailedTryAgain: 'Connection failed, please try again.',
         noWalletInfo: 'No wallet info detected!',
@@ -69,7 +69,7 @@ export const copywriter = {
       title: 'OUR COLLABORATORS',
     },
     investors: {
-      title: 'OUR INVESTORS'
+      title: 'OUR INVESTORS',
     },
     roadMapSection: {
       title: 'ROADMAP',
