@@ -38,8 +38,8 @@ export const copywriter = {
     },
     links: {
       whitePaperLink:
-        'https://media.nft.matrixworld.org/website/whitepaper.pdf',
-      videoLink: 'https://media.nft.matrixworld.org/videos/video.m4v',
+        'https://media.nft.matrixworld.org/website/whitepaper_new.pdf',
+      videoLink: 'https://media.nft.matrixworld.org/videos/video_new.mp4',
     },
   },
   home: {
