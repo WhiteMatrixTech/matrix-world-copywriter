@@ -13,8 +13,8 @@ export const copywriter = {
           'Failed to send the verification email, please try again.',
         emailNotValid: 'Please enter a valid email address.',
         codeNotValid: 'Please enter the verification code.',
-        emailHasUsed: 'The email has already been used',
-        emailIsBanned: 'This email has been banned',
+        emailHasUsed: 'The email has already been used.',
+        emailIsBanned: 'Email has already been registered with another wallet.',
       },
       preSalePage: {
         applySus: 'Application submitted!',
