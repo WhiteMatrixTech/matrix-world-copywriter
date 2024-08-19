@@ -207,7 +207,7 @@ Note: The following price list does not include gas fees, which must be paid in 
     viewLandSection: {
       openSeaLink: 'https://opensea.io/collection/matrixworld-landvoucher',
       bloctoLink: 'https://bay.blocto.app/market?collections=matrix_world',
-      marketLink: 'https://matrixmarket.xyz/collection/mainnet_flow-A.0d77ec47bbad8ef6.MatrixWorldVoucher'
+      flowtyLink: 'https://www.flowty.io/collection/0x0d77ec47bbad8ef6/MatrixWorldVoucher'
     },
   },
   earlyAccess: {
